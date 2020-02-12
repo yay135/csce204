@@ -1,0 +1,45 @@
+C:\Users\Chris\documents\visual studio 2010\Projects\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Workshop Selector\Workshop Selector\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2010\Projects\Workshop Selector\Workshop Selector\obj\x86\Debug\Workshop_Selector.Form1.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Workshop Selector\Workshop Selector\obj\x86\Debug\Workshop_Selector.Resources.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Workshop Selector\Workshop Selector\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Workshop Selector\Workshop Selector\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Workshop Selector\Workshop Selector\obj\x86\Debug\Workshop Selector.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Workshop Selector\Workshop Selector\obj\x86\Debug\Workshop Selector.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Workshop Selector\Workshop Selector\obj\x86\Debug\Workshop Selector.pdb
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 3\Workshop Selector\Workshop Selector\obj\x86\Debug\Workshop Selector.exe
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 3\Workshop Selector\Workshop Selector\obj\x86\Debug\Workshop Selector.xml
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 3\Workshop Selector\Workshop Selector\obj\x86\Debug\Workshop Selector.pdb
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 3\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.exe
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 3\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.pdb
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 3\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.xml
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 3\Workshop Selector\Workshop Selector\obj\x86\Debug\Workshop_Selector.Form1.resources
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 3\Workshop Selector\Workshop Selector\obj\x86\Debug\Workshop_Selector.Resources.resources
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 3\Workshop Selector\Workshop Selector\obj\x86\Debug\Workshop Selector.vbproj.GenerateResource.Cache
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 3\Workshop Selector\Workshop Selector\obj\x86\Debug\Workshop Selector.exe
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 3\Workshop Selector\Workshop Selector\obj\x86\Debug\Workshop Selector.xml
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 3\Workshop Selector\Workshop Selector\obj\x86\Debug\Workshop Selector.pdb
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 3\Workshop Selector\Workshop Selector\obj\x86\Debug\Workshop Selector.exe
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 3\Workshop Selector\Workshop Selector\obj\x86\Debug\Workshop Selector.xml
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 3\Workshop Selector\Workshop Selector\obj\x86\Debug\Workshop Selector.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 3\Workshop Selector\Workshop Selector\obj\x86\Debug\Workshop Selector.exe
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 3\Workshop Selector\Workshop Selector\obj\x86\Debug\Workshop Selector.xml
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 3\Workshop Selector\Workshop Selector\obj\x86\Debug\Workshop Selector.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 3\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.exe
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 3\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 3\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.xml
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 3\Workshop Selector\Workshop Selector\obj\x86\Debug\Workshop_Selector.Form1.resources
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 3\Workshop Selector\Workshop Selector\obj\x86\Debug\Workshop_Selector.Resources.resources
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 3\Workshop Selector\Workshop Selector\obj\x86\Debug\Workshop Selector.vbproj.GenerateResource.Cache
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 11\Workshop Selector\Workshop Selector\obj\x86\Debug\Workshop Selector.exe
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 11\Workshop Selector\Workshop Selector\obj\x86\Debug\Workshop Selector.xml
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 11\Workshop Selector\Workshop Selector\obj\x86\Debug\Workshop Selector.pdb
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 11\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.exe
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 11\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.pdb
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 11\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.xml
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 11\Workshop Selector\Workshop Selector\obj\x86\Debug\Workshop Selector.vbprojResolveAssemblyReference.cache
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 11\Workshop Selector\Workshop Selector\obj\x86\Debug\Workshop_Selector.Form1.resources
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 11\Workshop Selector\Workshop Selector\obj\x86\Debug\Workshop_Selector.Resources.resources
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 11\Workshop Selector\Workshop Selector\obj\x86\Debug\Workshop Selector.vbproj.GenerateResource.Cache

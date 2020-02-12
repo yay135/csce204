@@ -1,0 +1,32 @@
+C:\Users\Kip\AppData\Local\Temporary Projects\Cruise Selector\bin\Debug\Cruise Selector.exe.config
+C:\Users\Kip\AppData\Local\Temporary Projects\Cruise Selector\bin\Debug\Cruise Selector.exe
+C:\Users\Kip\AppData\Local\Temporary Projects\Cruise Selector\bin\Debug\Cruise Selector.pdb
+C:\Users\Kip\AppData\Local\Temporary Projects\Cruise Selector\bin\Debug\Cruise Selector.xml
+C:\Users\Kip\AppData\Local\Temporary Projects\Cruise Selector\obj\Debug\Cruise_Selector.Form1.resources
+C:\Users\Kip\AppData\Local\Temporary Projects\Cruise Selector\obj\Debug\Cruise_Selector.Resources.resources
+C:\Users\Kip\AppData\Local\Temporary Projects\Cruise Selector\obj\Debug\Cruise Selector.vbproj.GenerateResource.Cache
+C:\Users\Kip\AppData\Local\Temporary Projects\Cruise Selector\obj\Debug\Cruise Selector.exe
+C:\Users\Kip\AppData\Local\Temporary Projects\Cruise Selector\obj\Debug\Cruise Selector.xml
+C:\Users\Kip\AppData\Local\Temporary Projects\Cruise Selector\obj\Debug\Cruise Selector.pdb
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Cruise Selector\Cruise Selector\bin\Debug\Cruise Selector.exe.config
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Cruise Selector\Cruise Selector\obj\Debug\Cruise Selector.exe
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Cruise Selector\Cruise Selector\obj\Debug\Cruise Selector.xml
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Cruise Selector\Cruise Selector\obj\Debug\Cruise Selector.pdb
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 4\Cruise Selector\Cruise Selector\bin\Debug\Cruise Selector.exe.config
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 4\Cruise Selector\Cruise Selector\obj\Debug\Cruise Selector.exe
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 4\Cruise Selector\Cruise Selector\obj\Debug\Cruise Selector.xml
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 4\Cruise Selector\Cruise Selector\obj\Debug\Cruise Selector.pdb
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 12\Cruise Selector\Cruise Selector\bin\Debug\Cruise Selector.exe.config
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 12\Cruise Selector\Cruise Selector\obj\Debug\Cruise Selector.exe
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 12\Cruise Selector\Cruise Selector\obj\Debug\Cruise Selector.xml
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 12\Cruise Selector\Cruise Selector\obj\Debug\Cruise Selector.pdb
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 4\Cruise Selector\Cruise Selector\bin\Debug\Cruise Selector.exe
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 4\Cruise Selector\Cruise Selector\bin\Debug\Cruise Selector.pdb
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 4\Cruise Selector\Cruise Selector\bin\Debug\Cruise Selector.xml
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 4\Cruise Selector\Cruise Selector\obj\Debug\Cruise_Selector.Form1.resources
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 4\Cruise Selector\Cruise Selector\obj\Debug\Cruise_Selector.Resources.resources
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 4\Cruise Selector\Cruise Selector\obj\Debug\Cruise Selector.vbproj.GenerateResource.Cache
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\not used\Cruise Selector\Cruise Selector\bin\Debug\Cruise Selector.exe.config
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\not used\Cruise Selector\Cruise Selector\obj\Debug\Cruise Selector.exe
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\not used\Cruise Selector\Cruise Selector\obj\Debug\Cruise Selector.xml
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\not used\Cruise Selector\Cruise Selector\obj\Debug\Cruise Selector.pdb

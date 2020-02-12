@@ -1,0 +1,10 @@
+C:\Users\Kip\AppData\Local\Temporary Projects\Paris Barge Trips\bin\Debug\Paris Barge Trips.exe.config
+C:\Users\Kip\AppData\Local\Temporary Projects\Paris Barge Trips\bin\Debug\Paris Barge Trips.exe
+C:\Users\Kip\AppData\Local\Temporary Projects\Paris Barge Trips\bin\Debug\Paris Barge Trips.pdb
+C:\Users\Kip\AppData\Local\Temporary Projects\Paris Barge Trips\bin\Debug\Paris Barge Trips.xml
+C:\Users\Kip\AppData\Local\Temporary Projects\Paris Barge Trips\obj\Debug\Paris_Barge_Trips.Form1.resources
+C:\Users\Kip\AppData\Local\Temporary Projects\Paris Barge Trips\obj\Debug\Paris_Barge_Trips.Resources.resources
+C:\Users\Kip\AppData\Local\Temporary Projects\Paris Barge Trips\obj\Debug\Paris Barge Trips.vbproj.GenerateResource.Cache
+C:\Users\Kip\AppData\Local\Temporary Projects\Paris Barge Trips\obj\Debug\Paris Barge Trips.exe
+C:\Users\Kip\AppData\Local\Temporary Projects\Paris Barge Trips\obj\Debug\Paris Barge Trips.xml
+C:\Users\Kip\AppData\Local\Temporary Projects\Paris Barge Trips\obj\Debug\Paris Barge Trips.pdb

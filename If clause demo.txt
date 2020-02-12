@@ -1,0 +1,55 @@
+Dim English As Integer 
+Dim Math As Integer
+Dim Science As Integer
+
+Dim Avg As Integer
+
+'If Then Clause Demo
+If Avg > 80 Then
+	MessageBox.Show("pass!")
+End If 
+
+
+
+'If Then Else Clause Demo
+If Avg > 80 Then
+	MessageBox.Show("pass!")
+Else
+	MessageBox.Show("fail!")
+End If
+
+
+
+'If Then ElseIf Clause Demo
+If English > 80 Then
+	MessageBox.Show("pass!")
+	
+ElseIf Math > 80 Then
+	MessageBox.Show("pass!")
+ElseIf Science > 80 Then
+	MessageBox.Show("pass!")
+Else
+	MessageBox.Show("fail!")
+
+End If
+
+or 
+
+True or True = True
+True or False = True
+False or True = True
+False or False = False
+
+
+And
+True And True = True
+False And False = False
+False And True = False
+True And False = False
+
+Not
+
+Not True = False
+Not False = True 
+
+

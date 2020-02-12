@@ -1,0 +1,3 @@
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 19\Random Number Guessing Game Enhancement\Random Number Guessing Game Enhancement\obj\x86\Debug\Random Number Guessing Game Enhancement.exe
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 19\Random Number Guessing Game Enhancement\Random Number Guessing Game Enhancement\obj\x86\Debug\Random Number Guessing Game Enhancement.xml
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 19\Random Number Guessing Game Enhancement\Random Number Guessing Game Enhancement\obj\x86\Debug\Random Number Guessing Game Enhancement.pdb

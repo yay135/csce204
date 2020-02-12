@@ -1,0 +1,23 @@
+C:\Users\Chris\documents\visual studio 2010\Projects\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\bin\Debug\Celsius to Fahrenheit Table.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\bin\Debug\Celsius to Fahrenheit Table.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\bin\Debug\Celsius to Fahrenheit Table.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2010\Projects\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\obj\x86\Debug\Celsius_to_Fahrenheit_Table.Form1.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\obj\x86\Debug\Celsius_to_Fahrenheit_Table.Resources.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\obj\x86\Debug\Celsius to Fahrenheit Table.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\obj\x86\Debug\Celsius to Fahrenheit Table.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\obj\x86\Debug\Celsius to Fahrenheit Table.pdb
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 8\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\obj\x86\Debug\Celsius to Fahrenheit Table.exe
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 8\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\obj\x86\Debug\Celsius to Fahrenheit Table.xml
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 8\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\obj\x86\Debug\Celsius to Fahrenheit Table.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 8\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\obj\x86\Debug\Celsius to Fahrenheit Table.exe
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 8\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\obj\x86\Debug\Celsius to Fahrenheit Table.xml
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 8\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\obj\x86\Debug\Celsius to Fahrenheit Table.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 8\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\bin\Debug\Celsius to Fahrenheit Table.exe
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 8\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\bin\Debug\Celsius to Fahrenheit Table.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 8\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\bin\Debug\Celsius to Fahrenheit Table.xml
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 8\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\obj\x86\Debug\Celsius_to_Fahrenheit_Table.Form1.resources
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 8\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\obj\x86\Debug\Celsius_to_Fahrenheit_Table.Resources.resources
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 8\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\obj\x86\Debug\Celsius to Fahrenheit Table.vbproj.GenerateResource.Cache

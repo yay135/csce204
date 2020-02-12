@@ -1,0 +1,3 @@
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 11\Internet Service Provider Part 1\Internet Service Provider Part 1\obj\x86\Debug\Internet Service Provider Part 1.exe
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 11\Internet Service Provider Part 1\Internet Service Provider Part 1\obj\x86\Debug\Internet Service Provider Part 1.xml
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 11\Internet Service Provider Part 1\Internet Service Provider Part 1\obj\x86\Debug\Internet Service Provider Part 1.pdb

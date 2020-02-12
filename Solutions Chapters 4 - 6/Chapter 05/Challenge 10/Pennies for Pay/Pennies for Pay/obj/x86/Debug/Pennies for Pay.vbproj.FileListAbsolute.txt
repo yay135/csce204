@@ -1,0 +1,23 @@
+C:\Users\Chris\documents\visual studio 2010\Projects\Pennies for Pay\Pennies for Pay\bin\Debug\Pennies for Pay.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Pennies for Pay\Pennies for Pay\bin\Debug\Pennies for Pay.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\Pennies for Pay\Pennies for Pay\bin\Debug\Pennies for Pay.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Pennies for Pay\Pennies for Pay\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2010\Projects\Pennies for Pay\Pennies for Pay\obj\x86\Debug\Pennies_for_Pay.Form1.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Pennies for Pay\Pennies for Pay\obj\x86\Debug\Pennies_for_Pay.Resources.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Pennies for Pay\Pennies for Pay\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Pennies for Pay\Pennies for Pay\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Pennies for Pay\Pennies for Pay\obj\x86\Debug\Pennies for Pay.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Pennies for Pay\Pennies for Pay\obj\x86\Debug\Pennies for Pay.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Pennies for Pay\Pennies for Pay\obj\x86\Debug\Pennies for Pay.pdb
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 10\Pennies for Pay\Pennies for Pay\obj\x86\Debug\Pennies for Pay.exe
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 10\Pennies for Pay\Pennies for Pay\obj\x86\Debug\Pennies for Pay.xml
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 10\Pennies for Pay\Pennies for Pay\obj\x86\Debug\Pennies for Pay.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 10\Pennies for Pay\Pennies for Pay\obj\x86\Debug\Pennies for Pay.exe
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 10\Pennies for Pay\Pennies for Pay\obj\x86\Debug\Pennies for Pay.xml
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 10\Pennies for Pay\Pennies for Pay\obj\x86\Debug\Pennies for Pay.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 10\Pennies for Pay\Pennies for Pay\bin\Debug\Pennies for Pay.exe
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 10\Pennies for Pay\Pennies for Pay\bin\Debug\Pennies for Pay.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 10\Pennies for Pay\Pennies for Pay\bin\Debug\Pennies for Pay.xml
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 10\Pennies for Pay\Pennies for Pay\obj\x86\Debug\Pennies_for_Pay.Form1.resources
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 10\Pennies for Pay\Pennies for Pay\obj\x86\Debug\Pennies_for_Pay.Resources.resources
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 10\Pennies for Pay\Pennies for Pay\obj\x86\Debug\Pennies for Pay.vbproj.GenerateResource.Cache

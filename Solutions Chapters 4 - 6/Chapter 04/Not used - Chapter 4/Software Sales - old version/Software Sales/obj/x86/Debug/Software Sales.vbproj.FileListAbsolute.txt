@@ -1,0 +1,26 @@
+C:\Users\Chris\documents\visual studio 2010\Projects\Software Sales\Software Sales\bin\Debug\Software Sales.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Software Sales\Software Sales\bin\Debug\Software Sales.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\Software Sales\Software Sales\bin\Debug\Software Sales.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Software Sales\Software Sales\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2010\Projects\Software Sales\Software Sales\obj\x86\Debug\Software_Sales.Form1.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Software Sales\Software Sales\obj\x86\Debug\Software_Sales.Resources.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Software Sales\Software Sales\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Software Sales\Software Sales\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Software Sales\Software Sales\obj\x86\Debug\Software Sales.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Software Sales\Software Sales\obj\x86\Debug\Software Sales.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Software Sales\Software Sales\obj\x86\Debug\Software Sales.pdb
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Software Sales\Software Sales\obj\x86\Debug\Software Sales.exe
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Software Sales\Software Sales\obj\x86\Debug\Software Sales.xml
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Software Sales\Software Sales\obj\x86\Debug\Software Sales.pdb
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Software Sales\Software Sales\bin\Debug\Software Sales.exe
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Software Sales\Software Sales\bin\Debug\Software Sales.pdb
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Software Sales\Software Sales\bin\Debug\Software Sales.xml
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Software Sales\Software Sales\obj\x86\Debug\Software_Sales.Form1.resources
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Software Sales\Software Sales\obj\x86\Debug\Software_Sales.Resources.resources
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Software Sales\Software Sales\obj\x86\Debug\Software Sales.vbproj.GenerateResource.Cache
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Software Sales\Software Sales\obj\x86\Debug\Software Sales.exe
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Software Sales\Software Sales\obj\x86\Debug\Software Sales.xml
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Software Sales\Software Sales\obj\x86\Debug\Software Sales.pdb
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Software Sales\Software Sales\obj\x86\Debug\Software Sales.exe
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Software Sales\Software Sales\obj\x86\Debug\Software Sales.xml
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Software Sales\Software Sales\obj\x86\Debug\Software Sales.pdb

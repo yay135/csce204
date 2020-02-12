@@ -1,0 +1,26 @@
+C:\Users\Chris\documents\visual studio 2010\Projects\Rock Paper Scissors Game\Rock Paper Scissors Game\bin\Debug\Rock Paper Scissors Game.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Rock Paper Scissors Game\Rock Paper Scissors Game\bin\Debug\Rock Paper Scissors Game.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\Rock Paper Scissors Game\Rock Paper Scissors Game\bin\Debug\Rock Paper Scissors Game.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2010\Projects\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\x86\Debug\Rock_Paper_Scissors_Game.Form1.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\x86\Debug\Rock_Paper_Scissors_Game.Resources.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\x86\Debug\Rock Paper Scissors Game.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\x86\Debug\Rock Paper Scissors Game.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\x86\Debug\Rock Paper Scissors Game.pdb
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 08\Challenge 14\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\x86\Debug\Rock Paper Scissors Game.exe
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 08\Challenge 14\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\x86\Debug\Rock Paper Scissors Game.xml
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 08\Challenge 14\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\x86\Debug\Rock Paper Scissors Game.pdb
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 08\not used\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\x86\Debug\Rock Paper Scissors Game.exe
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 08\not used\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\x86\Debug\Rock Paper Scissors Game.xml
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 08\not used\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\x86\Debug\Rock Paper Scissors Game.pdb
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 13\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\x86\Debug\Rock Paper Scissors Game.exe
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 13\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\x86\Debug\Rock Paper Scissors Game.xml
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 13\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\x86\Debug\Rock Paper Scissors Game.pdb
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 13\Rock Paper Scissors Game\Rock Paper Scissors Game\bin\Debug\Rock Paper Scissors Game.exe
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 13\Rock Paper Scissors Game\Rock Paper Scissors Game\bin\Debug\Rock Paper Scissors Game.pdb
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 13\Rock Paper Scissors Game\Rock Paper Scissors Game\bin\Debug\Rock Paper Scissors Game.xml
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 13\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\x86\Debug\Rock_Paper_Scissors_Game.Form1.resources
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 13\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\x86\Debug\Rock_Paper_Scissors_Game.Resources.resources
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 13\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\x86\Debug\Rock Paper Scissors Game.vbproj.GenerateResource.Cache

@@ -1,0 +1,25 @@
+C:\Users\Kip\AppData\Local\Temporary Projects\Name Formatting\bin\Debug\Name Formatting.exe.config
+C:\Users\Kip\AppData\Local\Temporary Projects\Name Formatting\bin\Debug\Name Formatting.exe
+C:\Users\Kip\AppData\Local\Temporary Projects\Name Formatting\bin\Debug\Name Formatting.pdb
+C:\Users\Kip\AppData\Local\Temporary Projects\Name Formatting\bin\Debug\Name Formatting.xml
+C:\Users\Kip\AppData\Local\Temporary Projects\Name Formatting\obj\Debug\Name_Formatting.Form1.resources
+C:\Users\Kip\AppData\Local\Temporary Projects\Name Formatting\obj\Debug\Name_Formatting.Resources.resources
+C:\Users\Kip\AppData\Local\Temporary Projects\Name Formatting\obj\Debug\Name Formatting.vbproj.GenerateResource.Cache
+C:\Users\Kip\AppData\Local\Temporary Projects\Name Formatting\obj\Debug\Name Formatting.exe
+C:\Users\Kip\AppData\Local\Temporary Projects\Name Formatting\obj\Debug\Name Formatting.xml
+C:\Users\Kip\AppData\Local\Temporary Projects\Name Formatting\obj\Debug\Name Formatting.pdb
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 11\Name Formatting\Name Formatting\bin\Debug\Name Formatting.exe.config
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 11\Name Formatting\Name Formatting\obj\Debug\Name Formatting.exe
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 11\Name Formatting\Name Formatting\obj\Debug\Name Formatting.xml
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 11\Name Formatting\Name Formatting\obj\Debug\Name Formatting.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 10\Name Formatting\Name Formatting\bin\Debug\Name Formatting.exe.config
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 10\Name Formatting\Name Formatting\obj\Debug\Name Formatting.exe
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 10\Name Formatting\Name Formatting\obj\Debug\Name Formatting.xml
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 10\Name Formatting\Name Formatting\obj\Debug\Name Formatting.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 10\Name Formatting\Name Formatting\bin\Debug\Name Formatting.exe
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 10\Name Formatting\Name Formatting\bin\Debug\Name Formatting.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 10\Name Formatting\Name Formatting\bin\Debug\Name Formatting.xml
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 10\Name Formatting\Name Formatting\obj\Debug\Name Formatting.vbprojResolveAssemblyReference.cache
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 10\Name Formatting\Name Formatting\obj\Debug\Name_Formatting.Form1.resources
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 10\Name Formatting\Name Formatting\obj\Debug\Name_Formatting.Resources.resources
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 10\Name Formatting\Name Formatting\obj\Debug\Name Formatting.vbproj.GenerateResource.Cache

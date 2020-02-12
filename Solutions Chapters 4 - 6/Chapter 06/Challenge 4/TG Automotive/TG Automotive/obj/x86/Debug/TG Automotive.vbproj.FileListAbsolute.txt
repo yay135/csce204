@@ -1,0 +1,12 @@
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 4\TG Automotive\TG Automotive\obj\x86\Debug\Joes Automotive.exe
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 4\TG Automotive\TG Automotive\obj\x86\Debug\Joes Automotive.xml
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 4\TG Automotive\TG Automotive\obj\x86\Debug\Joes Automotive.pdb
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 4\TG Automotive\TG Automotive\bin\Debug\Joes Automotive.exe
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 4\TG Automotive\TG Automotive\bin\Debug\Joes Automotive.pdb
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 4\TG Automotive\TG Automotive\bin\Debug\Joes Automotive.xml
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 4\TG Automotive\TG Automotive\obj\x86\Debug\Joes_Automotive.Form1.resources
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 4\TG Automotive\TG Automotive\obj\x86\Debug\Joes_Automotive.Resources.resources
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 4\TG Automotive\TG Automotive\obj\x86\Debug\TG Automotive.vbproj.GenerateResource.Cache
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 5\TG Automotive\TG Automotive\obj\x86\Debug\Joes Automotive.exe
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 5\TG Automotive\TG Automotive\obj\x86\Debug\Joes Automotive.xml
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 5\TG Automotive\TG Automotive\obj\x86\Debug\Joes Automotive.pdb

@@ -1,0 +1,25 @@
+C:\Users\Chris\documents\visual studio 2010\Projects\Time Calculator\Time Calculator\bin\Debug\Time Calculator.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Time Calculator\Time Calculator\bin\Debug\Time Calculator.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\Time Calculator\Time Calculator\bin\Debug\Time Calculator.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Time Calculator\Time Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2010\Projects\Time Calculator\Time Calculator\obj\x86\Debug\Time_Calculator.Form1.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Time Calculator\Time Calculator\obj\x86\Debug\Time_Calculator.Resources.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Time Calculator\Time Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Time Calculator\Time Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Time Calculator\Time Calculator\obj\x86\Debug\Time Calculator.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Time Calculator\Time Calculator\obj\x86\Debug\Time Calculator.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Time Calculator\Time Calculator\obj\x86\Debug\Time Calculator.pdb
+C:\Users\Chris\Desktop\VB 2010\Programming Challenges\ALL DONE\Chapter 04\Challenge 17\Time Calculator\Time Calculator\obj\x86\Debug\Time Calculator.exe
+C:\Users\Chris\Desktop\VB 2010\Programming Challenges\ALL DONE\Chapter 04\Challenge 17\Time Calculator\Time Calculator\obj\x86\Debug\Time Calculator.xml
+C:\Users\Chris\Desktop\VB 2010\Programming Challenges\ALL DONE\Chapter 04\Challenge 17\Time Calculator\Time Calculator\obj\x86\Debug\Time Calculator.pdb
+C:\Users\Chris\Desktop\VB 2010\Programming Challenges\ALL DONE\Chapter 04\Challenge 17\Time Calculator\Time Calculator\bin\Debug\Time Calculator.exe
+C:\Users\Chris\Desktop\VB 2010\Programming Challenges\ALL DONE\Chapter 04\Challenge 17\Time Calculator\Time Calculator\bin\Debug\Time Calculator.pdb
+C:\Users\Chris\Desktop\VB 2010\Programming Challenges\ALL DONE\Chapter 04\Challenge 17\Time Calculator\Time Calculator\bin\Debug\Time Calculator.xml
+C:\Users\Chris\Desktop\VB 2010\Programming Challenges\ALL DONE\Chapter 04\Challenge 17\Time Calculator\Time Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\VB 2010\Programming Challenges\ALL DONE\Chapter 04\Challenge 17\Time Calculator\Time Calculator\obj\x86\Debug\Time_Calculator.Form1.resources
+C:\Users\Chris\Desktop\VB 2010\Programming Challenges\ALL DONE\Chapter 04\Challenge 17\Time Calculator\Time Calculator\obj\x86\Debug\Time_Calculator.Resources.resources
+C:\Users\Chris\Desktop\VB 2010\Programming Challenges\ALL DONE\Chapter 04\Challenge 17\Time Calculator\Time Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\Desktop\VB 2010\Programming Challenges\ALL DONE\Chapter 04\Challenge 17\Time Calculator\Time Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 17\Time Calculator\Time Calculator\obj\x86\Debug\Time Calculator.exe
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 17\Time Calculator\Time Calculator\obj\x86\Debug\Time Calculator.xml
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 17\Time Calculator\Time Calculator\obj\x86\Debug\Time Calculator.pdb

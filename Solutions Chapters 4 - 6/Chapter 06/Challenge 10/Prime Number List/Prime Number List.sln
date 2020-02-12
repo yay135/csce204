@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Prime Number List", "Prime Number List\Prime Number List.vbproj", "{E4686E8B-CAAE-4B7D-9E68-EE7B5D7AD6FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4686E8B-CAAE-4B7D-9E68-EE7B5D7AD6FE}.Debug|x86.ActiveCfg = Debug|x86
+		{E4686E8B-CAAE-4B7D-9E68-EE7B5D7AD6FE}.Debug|x86.Build.0 = Debug|x86
+		{E4686E8B-CAAE-4B7D-9E68-EE7B5D7AD6FE}.Release|x86.ActiveCfg = Release|x86
+		{E4686E8B-CAAE-4B7D-9E68-EE7B5D7AD6FE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

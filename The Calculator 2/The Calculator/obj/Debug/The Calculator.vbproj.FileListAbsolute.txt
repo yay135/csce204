@@ -1,0 +1,45 @@
+C:\Users\yay13\source\repos\The Calculator\The Calculator\bin\Debug\The Calculator.exe.config
+C:\Users\yay13\source\repos\The Calculator\The Calculator\bin\Debug\The Calculator.exe
+C:\Users\yay13\source\repos\The Calculator\The Calculator\bin\Debug\The Calculator.pdb
+C:\Users\yay13\source\repos\The Calculator\The Calculator\bin\Debug\The Calculator.xml
+C:\Users\yay13\source\repos\The Calculator\The Calculator\obj\Debug\The Calculator.vbprojAssemblyReference.cache
+C:\Users\yay13\source\repos\The Calculator\The Calculator\obj\Debug\The_Calculator.Form1.resources
+C:\Users\yay13\source\repos\The Calculator\The Calculator\obj\Debug\The_Calculator.Resources.resources
+C:\Users\yay13\source\repos\The Calculator\The Calculator\obj\Debug\The Calculator.vbproj.GenerateResource.cache
+C:\Users\yay13\source\repos\The Calculator\The Calculator\obj\Debug\The Calculator.exe
+C:\Users\yay13\source\repos\The Calculator\The Calculator\obj\Debug\The Calculator.xml
+C:\Users\yay13\source\repos\The Calculator\The Calculator\obj\Debug\The Calculator.pdb
+C:\Users\yay13\source\repos\The Calculator - Copy\The Calculator\bin\Debug\The Calculator.exe.config
+C:\Users\yay13\source\repos\The Calculator - Copy\The Calculator\bin\Debug\The Calculator.exe
+C:\Users\yay13\source\repos\The Calculator - Copy\The Calculator\bin\Debug\The Calculator.pdb
+C:\Users\yay13\source\repos\The Calculator - Copy\The Calculator\bin\Debug\The Calculator.xml
+C:\Users\yay13\source\repos\The Calculator - Copy\The Calculator\obj\Debug\The Calculator.vbprojAssemblyReference.cache
+C:\Users\yay13\source\repos\The Calculator - Copy\The Calculator\obj\Debug\The_Calculator.Form1.resources
+C:\Users\yay13\source\repos\The Calculator - Copy\The Calculator\obj\Debug\The_Calculator.Resources.resources
+C:\Users\yay13\source\repos\The Calculator - Copy\The Calculator\obj\Debug\The Calculator.vbproj.GenerateResource.cache
+C:\Users\yay13\source\repos\The Calculator - Copy\The Calculator\obj\Debug\The Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\yay13\source\repos\The Calculator - Copy\The Calculator\obj\Debug\The Calculator.exe
+C:\Users\yay13\source\repos\The Calculator - Copy\The Calculator\obj\Debug\The Calculator.xml
+C:\Users\yay13\source\repos\The Calculator - Copy\The Calculator\obj\Debug\The Calculator.pdb
+C:\Users\yanfy\Documents\csce204\The Calculator - Copy\The Calculator\bin\Debug\The Calculator.exe.config
+C:\Users\yanfy\Documents\csce204\The Calculator - Copy\The Calculator\bin\Debug\The Calculator.exe
+C:\Users\yanfy\Documents\csce204\The Calculator - Copy\The Calculator\bin\Debug\The Calculator.pdb
+C:\Users\yanfy\Documents\csce204\The Calculator - Copy\The Calculator\bin\Debug\The Calculator.xml
+C:\Users\yanfy\Documents\csce204\The Calculator - Copy\The Calculator\obj\Debug\The Calculator.vbprojAssemblyReference.cache
+C:\Users\yanfy\Documents\csce204\The Calculator - Copy\The Calculator\obj\Debug\The_Calculator.Form1.resources
+C:\Users\yanfy\Documents\csce204\The Calculator - Copy\The Calculator\obj\Debug\The_Calculator.Resources.resources
+C:\Users\yanfy\Documents\csce204\The Calculator - Copy\The Calculator\obj\Debug\The Calculator.vbproj.GenerateResource.cache
+C:\Users\yanfy\Documents\csce204\The Calculator - Copy\The Calculator\obj\Debug\The Calculator.exe
+C:\Users\yanfy\Documents\csce204\The Calculator - Copy\The Calculator\obj\Debug\The Calculator.xml
+C:\Users\yanfy\Documents\csce204\The Calculator - Copy\The Calculator\obj\Debug\The Calculator.pdb
+C:\Users\yanfy\Documents\csce204\The Calculator 2\The Calculator\bin\Debug\The Calculator.exe.config
+C:\Users\yanfy\Documents\csce204\The Calculator 2\The Calculator\bin\Debug\The Calculator.exe
+C:\Users\yanfy\Documents\csce204\The Calculator 2\The Calculator\bin\Debug\The Calculator.pdb
+C:\Users\yanfy\Documents\csce204\The Calculator 2\The Calculator\bin\Debug\The Calculator.xml
+C:\Users\yanfy\Documents\csce204\The Calculator 2\The Calculator\obj\Debug\The Calculator.vbprojAssemblyReference.cache
+C:\Users\yanfy\Documents\csce204\The Calculator 2\The Calculator\obj\Debug\The_Calculator.Form1.resources
+C:\Users\yanfy\Documents\csce204\The Calculator 2\The Calculator\obj\Debug\The_Calculator.Resources.resources
+C:\Users\yanfy\Documents\csce204\The Calculator 2\The Calculator\obj\Debug\The Calculator.vbproj.GenerateResource.cache
+C:\Users\yanfy\Documents\csce204\The Calculator 2\The Calculator\obj\Debug\The Calculator.exe
+C:\Users\yanfy\Documents\csce204\The Calculator 2\The Calculator\obj\Debug\The Calculator.xml
+C:\Users\yanfy\Documents\csce204\The Calculator 2\The Calculator\obj\Debug\The Calculator.pdb

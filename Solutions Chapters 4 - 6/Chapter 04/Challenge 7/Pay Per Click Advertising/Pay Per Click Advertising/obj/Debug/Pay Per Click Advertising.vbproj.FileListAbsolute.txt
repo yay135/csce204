@@ -1,0 +1,24 @@
+C:\Users\Kip\AppData\Local\Temporary Projects\Pay Per Click Advertising\bin\Debug\Pay Per Click Advertising.exe.config
+C:\Users\Kip\AppData\Local\Temporary Projects\Pay Per Click Advertising\bin\Debug\Pay Per Click Advertising.exe
+C:\Users\Kip\AppData\Local\Temporary Projects\Pay Per Click Advertising\bin\Debug\Pay Per Click Advertising.pdb
+C:\Users\Kip\AppData\Local\Temporary Projects\Pay Per Click Advertising\bin\Debug\Pay Per Click Advertising.xml
+C:\Users\Kip\AppData\Local\Temporary Projects\Pay Per Click Advertising\obj\Debug\Pay_Per_Click_Advertising.Form1.resources
+C:\Users\Kip\AppData\Local\Temporary Projects\Pay Per Click Advertising\obj\Debug\Pay_Per_Click_Advertising.Resources.resources
+C:\Users\Kip\AppData\Local\Temporary Projects\Pay Per Click Advertising\obj\Debug\Pay Per Click Advertising.vbproj.GenerateResource.Cache
+C:\Users\Kip\AppData\Local\Temporary Projects\Pay Per Click Advertising\obj\Debug\Pay Per Click Advertising.exe
+C:\Users\Kip\AppData\Local\Temporary Projects\Pay Per Click Advertising\obj\Debug\Pay Per Click Advertising.xml
+C:\Users\Kip\AppData\Local\Temporary Projects\Pay Per Click Advertising\obj\Debug\Pay Per Click Advertising.pdb
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 8\Pay Per Click Advertising\Pay Per Click Advertising\bin\Debug\Pay Per Click Advertising.exe.config
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 8\Pay Per Click Advertising\Pay Per Click Advertising\obj\Debug\Pay Per Click Advertising.exe
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 8\Pay Per Click Advertising\Pay Per Click Advertising\obj\Debug\Pay Per Click Advertising.xml
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 8\Pay Per Click Advertising\Pay Per Click Advertising\obj\Debug\Pay Per Click Advertising.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 7\Pay Per Click Advertising\Pay Per Click Advertising\bin\Debug\Pay Per Click Advertising.exe.config
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 7\Pay Per Click Advertising\Pay Per Click Advertising\obj\Debug\Pay Per Click Advertising.exe
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 7\Pay Per Click Advertising\Pay Per Click Advertising\obj\Debug\Pay Per Click Advertising.xml
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 7\Pay Per Click Advertising\Pay Per Click Advertising\obj\Debug\Pay Per Click Advertising.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 7\Pay Per Click Advertising\Pay Per Click Advertising\bin\Debug\Pay Per Click Advertising.exe
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 7\Pay Per Click Advertising\Pay Per Click Advertising\bin\Debug\Pay Per Click Advertising.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 7\Pay Per Click Advertising\Pay Per Click Advertising\bin\Debug\Pay Per Click Advertising.xml
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 7\Pay Per Click Advertising\Pay Per Click Advertising\obj\Debug\Pay_Per_Click_Advertising.Form1.resources
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 7\Pay Per Click Advertising\Pay Per Click Advertising\obj\Debug\Pay_Per_Click_Advertising.Resources.resources
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 7\Pay Per Click Advertising\Pay Per Click Advertising\obj\Debug\Pay Per Click Advertising.vbproj.GenerateResource.Cache

@@ -1,0 +1,3 @@
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 15\Body Mass Index Program Enhancement\Body Mass Index Program Enhancement\obj\x86\Debug\Body Mass Index Program Enhancement.exe
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 15\Body Mass Index Program Enhancement\Body Mass Index Program Enhancement\obj\x86\Debug\Body Mass Index Program Enhancement.xml
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 15\Body Mass Index Program Enhancement\Body Mass Index Program Enhancement\obj\x86\Debug\Body Mass Index Program Enhancement.pdb

@@ -1,0 +1,40 @@
+C:\Users\Chris\AppData\Local\Temporary Projects\Stadium Seating\bin\Debug\Stadium Seating.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\Stadium Seating\bin\Debug\Stadium Seating.pdb
+C:\Users\Chris\AppData\Local\Temporary Projects\Stadium Seating\bin\Debug\Stadium Seating.xml
+C:\Users\Chris\AppData\Local\Temporary Projects\Stadium Seating\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\AppData\Local\Temporary Projects\Stadium Seating\obj\x86\Debug\Stadium_Seating.Form1.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\Stadium Seating\obj\x86\Debug\Stadium_Seating.Resources.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\Stadium Seating\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\Stadium Seating\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\Stadium Seating\obj\x86\Debug\Stadium Seating.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\Stadium Seating\obj\x86\Debug\Stadium Seating.xml
+C:\Users\Chris\AppData\Local\Temporary Projects\Stadium Seating\obj\x86\Debug\Stadium Seating.pdb
+C:\Users\Chris\documents\visual studio 10\Projects\Stadium Seating\Stadium Seating\obj\x86\Debug\Stadium Seating.exe
+C:\Users\Chris\documents\visual studio 10\Projects\Stadium Seating\Stadium Seating\obj\x86\Debug\Stadium Seating.xml
+C:\Users\Chris\documents\visual studio 10\Projects\Stadium Seating\Stadium Seating\obj\x86\Debug\Stadium Seating.pdb
+D:\sovb12\Chapt_03\prog_challenges\Challenge 2\Stadium Seating\Stadium Seating\obj\x86\Debug\Stadium Seating.exe
+D:\sovb12\Chapt_03\prog_challenges\Challenge 2\Stadium Seating\Stadium Seating\obj\x86\Debug\Stadium Seating.xml
+D:\sovb12\Chapt_03\prog_challenges\Challenge 2\Stadium Seating\Stadium Seating\obj\x86\Debug\Stadium Seating.pdb
+D:\sovb12\Chapt_03\prog_challenges\Challenge 2\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.exe
+D:\sovb12\Chapt_03\prog_challenges\Challenge 2\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.pdb
+D:\sovb12\Chapt_03\prog_challenges\Challenge 2\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.xml
+D:\sovb12\Chapt_03\prog_challenges\Challenge 2\Stadium Seating\Stadium Seating\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\sovb12\Chapt_03\prog_challenges\Challenge 2\Stadium Seating\Stadium Seating\obj\x86\Debug\Stadium_Seating.Form1.resources
+D:\sovb12\Chapt_03\prog_challenges\Challenge 2\Stadium Seating\Stadium Seating\obj\x86\Debug\Stadium_Seating.Resources.resources
+D:\sovb12\Chapt_03\prog_challenges\Challenge 2\Stadium Seating\Stadium Seating\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\sovb12\Chapt_03\prog_challenges\Challenge 2\Stadium Seating\Stadium Seating\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 2\Stadium Seating\Stadium Seating\obj\x86\Debug\Stadium Seating.exe
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 2\Stadium Seating\Stadium Seating\obj\x86\Debug\Stadium Seating.xml
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 2\Stadium Seating\Stadium Seating\obj\x86\Debug\Stadium Seating.pdb
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 2\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.exe
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 2\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.pdb
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 2\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.xml
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 2\Stadium Seating\Stadium Seating\obj\x86\Debug\Stadium_Seating.Form1.resources
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 2\Stadium Seating\Stadium Seating\obj\x86\Debug\Stadium_Seating.Resources.resources
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 2\Stadium Seating\Stadium Seating\obj\x86\Debug\Stadium Seating.vbproj.GenerateResource.Cache
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 2\Stadium Seating\Stadium Seating\obj\x86\Debug\Stadium Seating.exe
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 2\Stadium Seating\Stadium Seating\obj\x86\Debug\Stadium Seating.xml
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 2\Stadium Seating\Stadium Seating\obj\x86\Debug\Stadium Seating.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 2\Stadium Seating\Stadium Seating\obj\x86\Debug\Stadium Seating.exe
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 2\Stadium Seating\Stadium Seating\obj\x86\Debug\Stadium Seating.xml
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 2\Stadium Seating\Stadium Seating\obj\x86\Debug\Stadium Seating.pdb

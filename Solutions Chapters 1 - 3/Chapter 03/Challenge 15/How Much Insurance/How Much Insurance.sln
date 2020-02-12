@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "How Much Insurance", "How Much Insurance\How Much Insurance.vbproj", "{C2ECCB34-E326-4B73-96A1-28AC4D041F05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2ECCB34-E326-4B73-96A1-28AC4D041F05}.Debug|x86.ActiveCfg = Debug|x86
+		{C2ECCB34-E326-4B73-96A1-28AC4D041F05}.Debug|x86.Build.0 = Debug|x86
+		{C2ECCB34-E326-4B73-96A1-28AC4D041F05}.Release|x86.ActiveCfg = Release|x86
+		{C2ECCB34-E326-4B73-96A1-28AC4D041F05}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

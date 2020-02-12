@@ -1,0 +1,28 @@
+C:\Users\Chris\documents\visual studio 2010\Projects\Joes Automotive\Joes Automotive\bin\Debug\Joes Automotive.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Joes Automotive\Joes Automotive\bin\Debug\Joes Automotive.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\Joes Automotive\Joes Automotive\bin\Debug\Joes Automotive.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Joes Automotive\Joes Automotive\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2010\Projects\Joes Automotive\Joes Automotive\obj\x86\Debug\Joes_Automotive.Form1.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Joes Automotive\Joes Automotive\obj\x86\Debug\Joes_Automotive.Resources.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Joes Automotive\Joes Automotive\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Joes Automotive\Joes Automotive\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Joes Automotive\Joes Automotive\obj\x86\Debug\Joes Automotive.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Joes Automotive\Joes Automotive\obj\x86\Debug\Joes Automotive.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Joes Automotive\Joes Automotive\obj\x86\Debug\Joes Automotive.pdb
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 4\Joes Automotive\Joes Automotive\obj\x86\Debug\Joes Automotive.exe
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 4\Joes Automotive\Joes Automotive\obj\x86\Debug\Joes Automotive.xml
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 4\Joes Automotive\Joes Automotive\obj\x86\Debug\Joes Automotive.pdb
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 4\Joes Automotive\Joes Automotive\bin\Debug\Joes Automotive.exe
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 4\Joes Automotive\Joes Automotive\bin\Debug\Joes Automotive.pdb
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 4\Joes Automotive\Joes Automotive\bin\Debug\Joes Automotive.xml
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 4\Joes Automotive\Joes Automotive\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 4\Joes Automotive\Joes Automotive\obj\x86\Debug\Joes_Automotive.Form1.resources
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 4\Joes Automotive\Joes Automotive\obj\x86\Debug\Joes_Automotive.Resources.resources
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 4\Joes Automotive\Joes Automotive\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 4\Joes Automotive\Joes Automotive\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 4\Joes Automotive\Joes Automotive\obj\x86\Debug\Joes Automotive.exe
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 4\Joes Automotive\Joes Automotive\obj\x86\Debug\Joes Automotive.xml
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 4\Joes Automotive\Joes Automotive\obj\x86\Debug\Joes Automotive.pdb
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 4\TG Automotive\Joes Automotive\obj\x86\Debug\Joes Automotive.exe
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 4\TG Automotive\Joes Automotive\obj\x86\Debug\Joes Automotive.xml
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 4\TG Automotive\Joes Automotive\obj\x86\Debug\Joes Automotive.pdb

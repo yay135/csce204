@@ -1,0 +1,34 @@
+C:\Users\Chris\documents\visual studio 2010\Projects\Magic Dates\Magic Dates\bin\Debug\Magic Dates.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Magic Dates\Magic Dates\bin\Debug\Magic Dates.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\Magic Dates\Magic Dates\bin\Debug\Magic Dates.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Magic Dates\Magic Dates\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2010\Projects\Magic Dates\Magic Dates\obj\x86\Debug\Magic_Dates.Form1.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Magic Dates\Magic Dates\obj\x86\Debug\Magic_Dates.Resources.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Magic Dates\Magic Dates\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Magic Dates\Magic Dates\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Magic Dates\Magic Dates\obj\x86\Debug\Magic Dates.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Magic Dates\Magic Dates\obj\x86\Debug\Magic Dates.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Magic Dates\Magic Dates\obj\x86\Debug\Magic Dates.pdb
+C:\Users\Chris\Desktop\VB 2010\Programming Challenges\ALL DONE\Chapter 04\Challenge 16\Magic Dates\Magic Dates\obj\x86\Debug\Magic Dates.exe
+C:\Users\Chris\Desktop\VB 2010\Programming Challenges\ALL DONE\Chapter 04\Challenge 16\Magic Dates\Magic Dates\obj\x86\Debug\Magic Dates.xml
+C:\Users\Chris\Desktop\VB 2010\Programming Challenges\ALL DONE\Chapter 04\Challenge 16\Magic Dates\Magic Dates\obj\x86\Debug\Magic Dates.pdb
+C:\Users\Chris\Desktop\VB 2010\Programming Challenges\ALL DONE\Chapter 04\Challenge 16\Magic Dates\Magic Dates\bin\Debug\Magic Dates.exe
+C:\Users\Chris\Desktop\VB 2010\Programming Challenges\ALL DONE\Chapter 04\Challenge 16\Magic Dates\Magic Dates\bin\Debug\Magic Dates.pdb
+C:\Users\Chris\Desktop\VB 2010\Programming Challenges\ALL DONE\Chapter 04\Challenge 16\Magic Dates\Magic Dates\bin\Debug\Magic Dates.xml
+C:\Users\Chris\Desktop\VB 2010\Programming Challenges\ALL DONE\Chapter 04\Challenge 16\Magic Dates\Magic Dates\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\VB 2010\Programming Challenges\ALL DONE\Chapter 04\Challenge 16\Magic Dates\Magic Dates\obj\x86\Debug\Magic_Dates.Form1.resources
+C:\Users\Chris\Desktop\VB 2010\Programming Challenges\ALL DONE\Chapter 04\Challenge 16\Magic Dates\Magic Dates\obj\x86\Debug\Magic_Dates.Resources.resources
+C:\Users\Chris\Desktop\VB 2010\Programming Challenges\ALL DONE\Chapter 04\Challenge 16\Magic Dates\Magic Dates\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\Desktop\VB 2010\Programming Challenges\ALL DONE\Chapter 04\Challenge 16\Magic Dates\Magic Dates\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 16\Magic Dates\Magic Dates\obj\x86\Debug\Magic Dates.exe
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 16\Magic Dates\Magic Dates\obj\x86\Debug\Magic Dates.xml
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 16\Magic Dates\Magic Dates\obj\x86\Debug\Magic Dates.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 17\Magic Dates\Magic Dates\obj\x86\Debug\Magic Dates.exe
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 17\Magic Dates\Magic Dates\obj\x86\Debug\Magic Dates.xml
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 17\Magic Dates\Magic Dates\obj\x86\Debug\Magic Dates.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 17\Magic Dates\Magic Dates\bin\Debug\Magic Dates.exe
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 17\Magic Dates\Magic Dates\bin\Debug\Magic Dates.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 17\Magic Dates\Magic Dates\bin\Debug\Magic Dates.xml
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 17\Magic Dates\Magic Dates\obj\x86\Debug\Magic_Dates.Form1.resources
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 17\Magic Dates\Magic Dates\obj\x86\Debug\Magic_Dates.Resources.resources
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 17\Magic Dates\Magic Dates\obj\x86\Debug\Magic Dates.vbproj.GenerateResource.Cache

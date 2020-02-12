@@ -1,0 +1,14 @@
+C:\Users\Chris\documents\visual studio 2010\Projects\Long-Distance Calls\Long-Distance Calls\bin\Debug\Long-Distance Calls.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Long-Distance Calls\Long-Distance Calls\bin\Debug\Long-Distance Calls.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\Long-Distance Calls\Long-Distance Calls\bin\Debug\Long-Distance Calls.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Long-Distance Calls\Long-Distance Calls\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2010\Projects\Long-Distance Calls\Long-Distance Calls\obj\x86\Debug\Long_Distance_Calls.Form1.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Long-Distance Calls\Long-Distance Calls\obj\x86\Debug\Long_Distance_Calls.Resources.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Long-Distance Calls\Long-Distance Calls\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Long-Distance Calls\Long-Distance Calls\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Long-Distance Calls\Long-Distance Calls\obj\x86\Debug\Long-Distance Calls.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Long-Distance Calls\Long-Distance Calls\obj\x86\Debug\Long-Distance Calls.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Long-Distance Calls\Long-Distance Calls\obj\x86\Debug\Long-Distance Calls.pdb
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 10\Long-Distance Calls\Long-Distance Calls\obj\x86\Debug\Long-Distance Calls.exe
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 10\Long-Distance Calls\Long-Distance Calls\obj\x86\Debug\Long-Distance Calls.xml
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 10\Long-Distance Calls\Long-Distance Calls\obj\x86\Debug\Long-Distance Calls.pdb

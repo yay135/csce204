@@ -1,0 +1,12 @@
+C:\Users\Kip\AppData\Local\Temporary Projects\Card Identifier\bin\Debug\Card Identifier.exe.config
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 02\Challenge 3\Card Identifier\Card Identifier\bin\Debug\Card Identifier.exe.config
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 02\Challenge 3\Card Identifier\Card Identifier\bin\Debug\Card Identifier.exe
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 02\Challenge 3\Card Identifier\Card Identifier\bin\Debug\Card Identifier.pdb
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 02\Challenge 3\Card Identifier\Card Identifier\bin\Debug\Card Identifier.xml
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 02\Challenge 3\Card Identifier\Card Identifier\obj\Debug\Card Identifier.vbprojResolveAssemblyReference.cache
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 02\Challenge 3\Card Identifier\Card Identifier\obj\Debug\Card_Identifier.Form1.resources
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 02\Challenge 3\Card Identifier\Card Identifier\obj\Debug\Card_Identifier.Resources.resources
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 02\Challenge 3\Card Identifier\Card Identifier\obj\Debug\Card Identifier.vbproj.GenerateResource.Cache
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 02\Challenge 3\Card Identifier\Card Identifier\obj\Debug\Card Identifier.exe
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 02\Challenge 3\Card Identifier\Card Identifier\obj\Debug\Card Identifier.xml
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 02\Challenge 3\Card Identifier\Card Identifier\obj\Debug\Card Identifier.pdb

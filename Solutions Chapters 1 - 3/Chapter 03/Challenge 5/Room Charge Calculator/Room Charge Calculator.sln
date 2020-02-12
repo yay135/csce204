@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Room Charge Calculator", "Room Charge Calculator\Room Charge Calculator.vbproj", "{B086A1FD-471D-462A-9D03-4158ADE2ADB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B086A1FD-471D-462A-9D03-4158ADE2ADB7}.Debug|x86.ActiveCfg = Debug|x86
+		{B086A1FD-471D-462A-9D03-4158ADE2ADB7}.Debug|x86.Build.0 = Debug|x86
+		{B086A1FD-471D-462A-9D03-4158ADE2ADB7}.Release|x86.ActiveCfg = Release|x86
+		{B086A1FD-471D-462A-9D03-4158ADE2ADB7}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

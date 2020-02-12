@@ -1,0 +1,38 @@
+C:\Users\Chris\AppData\Local\Temporary Projects\Miles per Gallon Calculator\bin\Debug\Miles per Gallon Calculator.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\Miles per Gallon Calculator\bin\Debug\Miles per Gallon Calculator.pdb
+C:\Users\Chris\AppData\Local\Temporary Projects\Miles per Gallon Calculator\bin\Debug\Miles per Gallon Calculator.xml
+C:\Users\Chris\AppData\Local\Temporary Projects\Miles per Gallon Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\AppData\Local\Temporary Projects\Miles per Gallon Calculator\obj\x86\Debug\Miles_per_Gallon_Calculator.Form1.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\Miles per Gallon Calculator\obj\x86\Debug\Miles_per_Gallon_Calculator.Resources.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\Miles per Gallon Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\Miles per Gallon Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\Miles per Gallon Calculator\obj\x86\Debug\Miles per Gallon Calculator.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\Miles per Gallon Calculator\obj\x86\Debug\Miles per Gallon Calculator.xml
+C:\Users\Chris\AppData\Local\Temporary Projects\Miles per Gallon Calculator\obj\x86\Debug\Miles per Gallon Calculator.pdb
+C:\Users\Chris\documents\visual studio 10\Projects\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\x86\Debug\Miles per Gallon Calculator.exe
+C:\Users\Chris\documents\visual studio 10\Projects\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\x86\Debug\Miles per Gallon Calculator.xml
+C:\Users\Chris\documents\visual studio 10\Projects\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\x86\Debug\Miles per Gallon Calculator.pdb
+D:\sovb12\Chapt_03\prog_challenges\Challenge 1\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\x86\Debug\Miles per Gallon Calculator.exe
+D:\sovb12\Chapt_03\prog_challenges\Challenge 1\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\x86\Debug\Miles per Gallon Calculator.xml
+D:\sovb12\Chapt_03\prog_challenges\Challenge 1\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\x86\Debug\Miles per Gallon Calculator.pdb
+D:\sovb12\Chapt_03\prog_challenges\Challenge 1\Miles per Gallon Calculator\Miles per Gallon Calculator\bin\Debug\Miles per Gallon Calculator.exe
+D:\sovb12\Chapt_03\prog_challenges\Challenge 1\Miles per Gallon Calculator\Miles per Gallon Calculator\bin\Debug\Miles per Gallon Calculator.pdb
+D:\sovb12\Chapt_03\prog_challenges\Challenge 1\Miles per Gallon Calculator\Miles per Gallon Calculator\bin\Debug\Miles per Gallon Calculator.xml
+D:\sovb12\Chapt_03\prog_challenges\Challenge 1\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\sovb12\Chapt_03\prog_challenges\Challenge 1\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\x86\Debug\Miles_per_Gallon_Calculator.Form1.resources
+D:\sovb12\Chapt_03\prog_challenges\Challenge 1\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\x86\Debug\Miles_per_Gallon_Calculator.Resources.resources
+D:\sovb12\Chapt_03\prog_challenges\Challenge 1\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\sovb12\Chapt_03\prog_challenges\Challenge 1\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 1\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\x86\Debug\Miles per Gallon Calculator.exe
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 1\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\x86\Debug\Miles per Gallon Calculator.xml
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 1\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\x86\Debug\Miles per Gallon Calculator.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 1\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\x86\Debug\Miles per Gallon Calculator.exe
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 1\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\x86\Debug\Miles per Gallon Calculator.xml
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 1\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\x86\Debug\Miles per Gallon Calculator.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 1\Miles per Gallon Calculator\Miles per Gallon Calculator\bin\Debug\Miles per Gallon Calculator.exe
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 1\Miles per Gallon Calculator\Miles per Gallon Calculator\bin\Debug\Miles per Gallon Calculator.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 1\Miles per Gallon Calculator\Miles per Gallon Calculator\bin\Debug\Miles per Gallon Calculator.xml
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 1\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\x86\Debug\Miles per Gallon Calculator.vbprojResolveAssemblyReference.cache
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 1\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\x86\Debug\Miles_per_Gallon_Calculator.Form1.resources
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 1\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\x86\Debug\Miles_per_Gallon_Calculator.Resources.resources
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 1\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\x86\Debug\Miles per Gallon Calculator.vbproj.GenerateResource.Cache

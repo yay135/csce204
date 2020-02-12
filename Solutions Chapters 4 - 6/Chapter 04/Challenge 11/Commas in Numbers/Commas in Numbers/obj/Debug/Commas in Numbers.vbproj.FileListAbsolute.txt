@@ -1,0 +1,21 @@
+C:\Users\Kip\AppData\Local\Temporary Projects\Commas in Numbers\bin\Debug\Commas in Numbers.exe.config
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 12\Commas in Numbers\Commas in Numbers\bin\Debug\Commas in Numbers.exe.config
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 12\Commas in Numbers\Commas in Numbers\bin\Debug\Commas in Numbers.exe
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 12\Commas in Numbers\Commas in Numbers\bin\Debug\Commas in Numbers.pdb
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 12\Commas in Numbers\Commas in Numbers\bin\Debug\Commas in Numbers.xml
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 12\Commas in Numbers\Commas in Numbers\obj\Debug\Commas_in_Numbers.Form1.resources
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 12\Commas in Numbers\Commas in Numbers\obj\Debug\Commas_in_Numbers.Resources.resources
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 12\Commas in Numbers\Commas in Numbers\obj\Debug\Commas in Numbers.vbproj.GenerateResource.Cache
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 12\Commas in Numbers\Commas in Numbers\obj\Debug\Commas in Numbers.exe
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 12\Commas in Numbers\Commas in Numbers\obj\Debug\Commas in Numbers.xml
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 12\Commas in Numbers\Commas in Numbers\obj\Debug\Commas in Numbers.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 11\Commas in Numbers\Commas in Numbers\bin\Debug\Commas in Numbers.exe.config
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 11\Commas in Numbers\Commas in Numbers\obj\Debug\Commas in Numbers.exe
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 11\Commas in Numbers\Commas in Numbers\obj\Debug\Commas in Numbers.xml
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 11\Commas in Numbers\Commas in Numbers\obj\Debug\Commas in Numbers.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 11\Commas in Numbers\Commas in Numbers\bin\Debug\Commas in Numbers.exe
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 11\Commas in Numbers\Commas in Numbers\bin\Debug\Commas in Numbers.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 11\Commas in Numbers\Commas in Numbers\bin\Debug\Commas in Numbers.xml
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 11\Commas in Numbers\Commas in Numbers\obj\Debug\Commas_in_Numbers.Form1.resources
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 11\Commas in Numbers\Commas in Numbers\obj\Debug\Commas_in_Numbers.Resources.resources
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 11\Commas in Numbers\Commas in Numbers\obj\Debug\Commas in Numbers.vbproj.GenerateResource.Cache

@@ -1,0 +1,34 @@
+C:\Users\Chris\documents\visual studio 10\Projects\Property Tax\Property Tax\bin\Debug\Property Tax.exe
+C:\Users\Chris\documents\visual studio 10\Projects\Property Tax\Property Tax\bin\Debug\Property Tax.pdb
+C:\Users\Chris\documents\visual studio 10\Projects\Property Tax\Property Tax\bin\Debug\Property Tax.xml
+C:\Users\Chris\documents\visual studio 10\Projects\Property Tax\Property Tax\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 10\Projects\Property Tax\Property Tax\obj\x86\Debug\Property_Tax.Form1.resources
+C:\Users\Chris\documents\visual studio 10\Projects\Property Tax\Property Tax\obj\x86\Debug\Property_Tax.Resources.resources
+C:\Users\Chris\documents\visual studio 10\Projects\Property Tax\Property Tax\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 10\Projects\Property Tax\Property Tax\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 10\Projects\Property Tax\Property Tax\obj\x86\Debug\Property Tax.exe
+C:\Users\Chris\documents\visual studio 10\Projects\Property Tax\Property Tax\obj\x86\Debug\Property Tax.xml
+C:\Users\Chris\documents\visual studio 10\Projects\Property Tax\Property Tax\obj\x86\Debug\Property Tax.pdb
+D:\sovb12\Chapt_03\prog_challenges\Challenge 9\Property Tax\Property Tax\obj\x86\Debug\Property Tax.exe
+D:\sovb12\Chapt_03\prog_challenges\Challenge 9\Property Tax\Property Tax\obj\x86\Debug\Property Tax.xml
+D:\sovb12\Chapt_03\prog_challenges\Challenge 9\Property Tax\Property Tax\obj\x86\Debug\Property Tax.pdb
+D:\sovb12\Chapt_03\prog_challenges\Challenge 9\Property Tax\Property Tax\bin\Debug\Property Tax.exe
+D:\sovb12\Chapt_03\prog_challenges\Challenge 9\Property Tax\Property Tax\bin\Debug\Property Tax.pdb
+D:\sovb12\Chapt_03\prog_challenges\Challenge 9\Property Tax\Property Tax\bin\Debug\Property Tax.xml
+D:\sovb12\Chapt_03\prog_challenges\Challenge 9\Property Tax\Property Tax\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\sovb12\Chapt_03\prog_challenges\Challenge 9\Property Tax\Property Tax\obj\x86\Debug\Property_Tax.Form1.resources
+D:\sovb12\Chapt_03\prog_challenges\Challenge 9\Property Tax\Property Tax\obj\x86\Debug\Property_Tax.Resources.resources
+D:\sovb12\Chapt_03\prog_challenges\Challenge 9\Property Tax\Property Tax\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\sovb12\Chapt_03\prog_challenges\Challenge 9\Property Tax\Property Tax\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 9\Calculating Property Taxes\Property Tax\obj\x86\Debug\Property Tax.exe
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 9\Calculating Property Taxes\Property Tax\obj\x86\Debug\Property Tax.xml
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 9\Calculating Property Taxes\Property Tax\obj\x86\Debug\Property Tax.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 11\Calculating Property Taxes\Property Tax\obj\x86\Debug\Property Tax.exe
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 11\Calculating Property Taxes\Property Tax\obj\x86\Debug\Property Tax.xml
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 11\Calculating Property Taxes\Property Tax\obj\x86\Debug\Property Tax.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 11\Calculating Property Taxes\Property Tax\bin\Debug\Property Tax.exe
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 11\Calculating Property Taxes\Property Tax\bin\Debug\Property Tax.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 11\Calculating Property Taxes\Property Tax\bin\Debug\Property Tax.xml
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 11\Calculating Property Taxes\Property Tax\obj\x86\Debug\Property_Tax.Form1.resources
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 11\Calculating Property Taxes\Property Tax\obj\x86\Debug\Property_Tax.Resources.resources
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 11\Calculating Property Taxes\Property Tax\obj\x86\Debug\Property Tax.vbproj.GenerateResource.Cache

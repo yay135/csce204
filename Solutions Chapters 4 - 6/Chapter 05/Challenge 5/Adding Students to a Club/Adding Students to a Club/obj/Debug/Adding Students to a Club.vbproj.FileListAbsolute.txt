@@ -1,0 +1,12 @@
+C:\Users\Kip\AppData\Local\Temporary Projects\Adding Students to a Club\bin\Debug\Adding Students to a Club.exe.config
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 5\Adding Students to a Club\Adding Students to a Club\bin\Debug\Adding Students to a Club.exe.config
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 5\Adding Students to a Club\Adding Students to a Club\bin\Debug\Adding Students to a Club.exe
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 5\Adding Students to a Club\Adding Students to a Club\bin\Debug\Adding Students to a Club.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 5\Adding Students to a Club\Adding Students to a Club\bin\Debug\Adding Students to a Club.xml
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 5\Adding Students to a Club\Adding Students to a Club\obj\Debug\Adding Students to a Club.vbprojResolveAssemblyReference.cache
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 5\Adding Students to a Club\Adding Students to a Club\obj\Debug\Adding_Students_to_a_Club.Form1.resources
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 5\Adding Students to a Club\Adding Students to a Club\obj\Debug\Adding_Students_to_a_Club.Resources.resources
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 5\Adding Students to a Club\Adding Students to a Club\obj\Debug\Adding Students to a Club.vbproj.GenerateResource.Cache
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 5\Adding Students to a Club\Adding Students to a Club\obj\Debug\Adding Students to a Club.exe
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 5\Adding Students to a Club\Adding Students to a Club\obj\Debug\Adding Students to a Club.xml
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 5\Adding Students to a Club\Adding Students to a Club\obj\Debug\Adding Students to a Club.pdb

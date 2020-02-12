@@ -1,0 +1,10 @@
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 7\Integer Math Tutor\Integer Mathematics Tutor\bin\Debug\Integer Mathematics Tutor.exe.config
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 7\Integer Math Tutor\Integer Mathematics Tutor\bin\Debug\Integer Mathematics Tutor.exe
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 7\Integer Math Tutor\Integer Mathematics Tutor\bin\Debug\Integer Mathematics Tutor.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 7\Integer Math Tutor\Integer Mathematics Tutor\bin\Debug\Integer Mathematics Tutor.xml
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 7\Integer Math Tutor\Integer Mathematics Tutor\obj\Debug\Math_Tutor.Form1.resources
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 7\Integer Math Tutor\Integer Mathematics Tutor\obj\Debug\Math_Tutor.Resources.resources
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 7\Integer Math Tutor\Integer Mathematics Tutor\obj\Debug\Integer Arithmetic Tutor.vbproj.GenerateResource.Cache
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 7\Integer Math Tutor\Integer Mathematics Tutor\obj\Debug\Integer Mathematics Tutor.exe
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 7\Integer Math Tutor\Integer Mathematics Tutor\obj\Debug\Integer Mathematics Tutor.xml
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 7\Integer Math Tutor\Integer Mathematics Tutor\obj\Debug\Integer Mathematics Tutor.pdb

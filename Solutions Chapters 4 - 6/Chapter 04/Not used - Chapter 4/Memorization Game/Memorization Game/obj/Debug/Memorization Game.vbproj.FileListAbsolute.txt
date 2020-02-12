@@ -1,0 +1,10 @@
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 14\Memorization Game\Memorization Game\bin\Debug\Memorization Game.exe.config
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 14\Memorization Game\Memorization Game\bin\Debug\Memorization Game.exe
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 14\Memorization Game\Memorization Game\bin\Debug\Memorization Game.pdb
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 14\Memorization Game\Memorization Game\bin\Debug\Memorization Game.xml
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 14\Memorization Game\Memorization Game\obj\Debug\Paris_Barge_Trips.Form1.resources
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 14\Memorization Game\Memorization Game\obj\Debug\Paris_Barge_Trips.Resources.resources
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 14\Memorization Game\Memorization Game\obj\Debug\Memorization Game.vbproj.GenerateResource.Cache
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 14\Memorization Game\Memorization Game\obj\Debug\Memorization Game.exe
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 14\Memorization Game\Memorization Game\obj\Debug\Memorization Game.xml
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 14\Memorization Game\Memorization Game\obj\Debug\Memorization Game.pdb

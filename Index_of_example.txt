@@ -1,0 +1,8 @@
+Dim strInput As String = 'saerarafaeracsae'
+			  0123456789...
+Dim strPattern As String = 'aera'
+
+IndexOf()
+
+strInput.IndexOf(strPattern)
+strInput.IndexOf(strPattern, 2) -> -1 or an index (1)

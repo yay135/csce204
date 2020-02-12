@@ -1,0 +1,34 @@
+C:\Users\Chris\documents\visual studio 10\Projects\Distance Traveled\Distance Traveled\bin\Debug\Distance Traveled.exe
+C:\Users\Chris\documents\visual studio 10\Projects\Distance Traveled\Distance Traveled\bin\Debug\Distance Traveled.pdb
+C:\Users\Chris\documents\visual studio 10\Projects\Distance Traveled\Distance Traveled\bin\Debug\Distance Traveled.xml
+C:\Users\Chris\documents\visual studio 10\Projects\Distance Traveled\Distance Traveled\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 10\Projects\Distance Traveled\Distance Traveled\obj\x86\Debug\Distance_Traveled.Form1.resources
+C:\Users\Chris\documents\visual studio 10\Projects\Distance Traveled\Distance Traveled\obj\x86\Debug\Distance_Traveled.Resources.resources
+C:\Users\Chris\documents\visual studio 10\Projects\Distance Traveled\Distance Traveled\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 10\Projects\Distance Traveled\Distance Traveled\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 10\Projects\Distance Traveled\Distance Traveled\obj\x86\Debug\Distance Traveled.exe
+C:\Users\Chris\documents\visual studio 10\Projects\Distance Traveled\Distance Traveled\obj\x86\Debug\Distance Traveled.xml
+C:\Users\Chris\documents\visual studio 10\Projects\Distance Traveled\Distance Traveled\obj\x86\Debug\Distance Traveled.pdb
+D:\sovb12\Chapt_03\prog_challenges\Challenge 11\Distance Traveled\Distance Traveled\obj\x86\Debug\Distance Traveled.exe
+D:\sovb12\Chapt_03\prog_challenges\Challenge 11\Distance Traveled\Distance Traveled\obj\x86\Debug\Distance Traveled.xml
+D:\sovb12\Chapt_03\prog_challenges\Challenge 11\Distance Traveled\Distance Traveled\obj\x86\Debug\Distance Traveled.pdb
+D:\sovb12\Chapt_03\prog_challenges\Challenge 11\Distance Traveled\Distance Traveled\bin\Debug\Distance Traveled.exe
+D:\sovb12\Chapt_03\prog_challenges\Challenge 11\Distance Traveled\Distance Traveled\bin\Debug\Distance Traveled.pdb
+D:\sovb12\Chapt_03\prog_challenges\Challenge 11\Distance Traveled\Distance Traveled\bin\Debug\Distance Traveled.xml
+D:\sovb12\Chapt_03\prog_challenges\Challenge 11\Distance Traveled\Distance Traveled\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\sovb12\Chapt_03\prog_challenges\Challenge 11\Distance Traveled\Distance Traveled\obj\x86\Debug\Distance_Traveled.Form1.resources
+D:\sovb12\Chapt_03\prog_challenges\Challenge 11\Distance Traveled\Distance Traveled\obj\x86\Debug\Distance_Traveled.Resources.resources
+D:\sovb12\Chapt_03\prog_challenges\Challenge 11\Distance Traveled\Distance Traveled\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\sovb12\Chapt_03\prog_challenges\Challenge 11\Distance Traveled\Distance Traveled\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 11\Distance Traveled\Distance Traveled\obj\x86\Debug\Distance Traveled.exe
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 11\Distance Traveled\Distance Traveled\obj\x86\Debug\Distance Traveled.xml
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 11\Distance Traveled\Distance Traveled\obj\x86\Debug\Distance Traveled.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 13\Distance Traveled\Distance Traveled\obj\x86\Debug\Distance Traveled.exe
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 13\Distance Traveled\Distance Traveled\obj\x86\Debug\Distance Traveled.xml
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 13\Distance Traveled\Distance Traveled\obj\x86\Debug\Distance Traveled.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 13\Distance Traveled\Distance Traveled\bin\Debug\Distance Traveled.exe
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 13\Distance Traveled\Distance Traveled\bin\Debug\Distance Traveled.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 13\Distance Traveled\Distance Traveled\bin\Debug\Distance Traveled.xml
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 13\Distance Traveled\Distance Traveled\obj\x86\Debug\Distance_Traveled.Form1.resources
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 13\Distance Traveled\Distance Traveled\obj\x86\Debug\Distance_Traveled.Resources.resources
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 13\Distance Traveled\Distance Traveled\obj\x86\Debug\Distance Traveled.vbproj.GenerateResource.Cache

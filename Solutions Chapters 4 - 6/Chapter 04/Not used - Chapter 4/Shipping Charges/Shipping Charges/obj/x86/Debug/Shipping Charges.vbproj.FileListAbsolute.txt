@@ -1,0 +1,28 @@
+C:\Users\Chris\AppData\Local\Temporary Projects\Shipping Charges\bin\Debug\Shipping Charges.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\Shipping Charges\bin\Debug\Shipping Charges.pdb
+C:\Users\Chris\AppData\Local\Temporary Projects\Shipping Charges\bin\Debug\Shipping Charges.xml
+C:\Users\Chris\AppData\Local\Temporary Projects\Shipping Charges\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\AppData\Local\Temporary Projects\Shipping Charges\obj\x86\Debug\Shipping_Charges.Form1.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\Shipping Charges\obj\x86\Debug\Shipping_Charges.Resources.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\Shipping Charges\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\Shipping Charges\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\Shipping Charges\obj\x86\Debug\Shipping Charges.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\Shipping Charges\obj\x86\Debug\Shipping Charges.xml
+C:\Users\Chris\AppData\Local\Temporary Projects\Shipping Charges\obj\x86\Debug\Shipping Charges.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\Shipping Charges\Shipping Charges\obj\x86\Debug\Shipping Charges.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Shipping Charges\Shipping Charges\obj\x86\Debug\Shipping Charges.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Shipping Charges\Shipping Charges\obj\x86\Debug\Shipping Charges.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\Shipping Charges\Shipping Charges\bin\Debug\Shipping Charges.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Shipping Charges\Shipping Charges\bin\Debug\Shipping Charges.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\Shipping Charges\Shipping Charges\bin\Debug\Shipping Charges.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Shipping Charges\Shipping Charges\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2010\Projects\Shipping Charges\Shipping Charges\obj\x86\Debug\Shipping_Charges.Form1.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Shipping Charges\Shipping Charges\obj\x86\Debug\Shipping_Charges.Resources.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Shipping Charges\Shipping Charges\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Shipping Charges\Shipping Charges\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\Desktop\VB 2010\Programming Challenges\ALL DONE\Chapter 04\Challenge 7\Shipping Charges\Shipping Charges\obj\x86\Debug\Shipping Charges.exe
+C:\Users\Chris\Desktop\VB 2010\Programming Challenges\ALL DONE\Chapter 04\Challenge 7\Shipping Charges\Shipping Charges\obj\x86\Debug\Shipping Charges.xml
+C:\Users\Chris\Desktop\VB 2010\Programming Challenges\ALL DONE\Chapter 04\Challenge 7\Shipping Charges\Shipping Charges\obj\x86\Debug\Shipping Charges.pdb
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 7\Shipping Charges\Shipping Charges\obj\x86\Debug\Shipping Charges.exe
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 7\Shipping Charges\Shipping Charges\obj\x86\Debug\Shipping Charges.xml
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 7\Shipping Charges\Shipping Charges\obj\x86\Debug\Shipping Charges.pdb

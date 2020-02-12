@@ -1,0 +1,10 @@
+C:\Users\Kip\AppData\Local\Temporary Projects\Math Tutor\bin\Debug\Math Tutor.exe.config
+C:\Users\Kip\AppData\Local\Temporary Projects\Math Tutor\bin\Debug\Math Tutor.exe
+C:\Users\Kip\AppData\Local\Temporary Projects\Math Tutor\bin\Debug\Math Tutor.pdb
+C:\Users\Kip\AppData\Local\Temporary Projects\Math Tutor\bin\Debug\Math Tutor.xml
+C:\Users\Kip\AppData\Local\Temporary Projects\Math Tutor\obj\Debug\Math_Tutor.Form1.resources
+C:\Users\Kip\AppData\Local\Temporary Projects\Math Tutor\obj\Debug\Math_Tutor.Resources.resources
+C:\Users\Kip\AppData\Local\Temporary Projects\Math Tutor\obj\Debug\Math Tutor.vbproj.GenerateResource.Cache
+C:\Users\Kip\AppData\Local\Temporary Projects\Math Tutor\obj\Debug\Math Tutor.exe
+C:\Users\Kip\AppData\Local\Temporary Projects\Math Tutor\obj\Debug\Math Tutor.xml
+C:\Users\Kip\AppData\Local\Temporary Projects\Math Tutor\obj\Debug\Math Tutor.pdb

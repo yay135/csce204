@@ -1,0 +1,23 @@
+C:\Users\Chris\documents\visual studio 2010\Projects\Speed of Sound\Speed of Sound\bin\Debug\Speed of Sound.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Speed of Sound\Speed of Sound\bin\Debug\Speed of Sound.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\Speed of Sound\Speed of Sound\bin\Debug\Speed of Sound.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Speed of Sound\Speed of Sound\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2010\Projects\Speed of Sound\Speed of Sound\obj\x86\Debug\Speed_of_Sound.Form1.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Speed of Sound\Speed of Sound\obj\x86\Debug\Speed_of_Sound.Resources.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Speed of Sound\Speed of Sound\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Speed of Sound\Speed of Sound\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Speed of Sound\Speed of Sound\obj\x86\Debug\Speed of Sound.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Speed of Sound\Speed of Sound\obj\x86\Debug\Speed of Sound.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Speed of Sound\Speed of Sound\obj\x86\Debug\Speed of Sound.pdb
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 8\Speed of Sound\Speed of Sound\obj\x86\Debug\Speed of Sound.exe
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 8\Speed of Sound\Speed of Sound\obj\x86\Debug\Speed of Sound.xml
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 8\Speed of Sound\Speed of Sound\obj\x86\Debug\Speed of Sound.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 8\Speed of Sound\Speed of Sound\obj\x86\Debug\Speed of Sound.exe
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 8\Speed of Sound\Speed of Sound\obj\x86\Debug\Speed of Sound.xml
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 8\Speed of Sound\Speed of Sound\obj\x86\Debug\Speed of Sound.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 8\Speed of Sound\Speed of Sound\bin\Debug\Speed of Sound.exe
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 8\Speed of Sound\Speed of Sound\bin\Debug\Speed of Sound.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 8\Speed of Sound\Speed of Sound\bin\Debug\Speed of Sound.xml
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 8\Speed of Sound\Speed of Sound\obj\x86\Debug\Speed_of_Sound.Form1.resources
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 8\Speed of Sound\Speed of Sound\obj\x86\Debug\Speed_of_Sound.Resources.resources
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 8\Speed of Sound\Speed of Sound\obj\x86\Debug\Speed of Sound.vbproj.GenerateResource.Cache

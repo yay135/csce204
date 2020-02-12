@@ -1,0 +1,22 @@
+C:\Users\Kip\AppData\Local\Temporary Projects\Software Sales\bin\Debug\Software Sales.exe.config
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Software Sales\Software Sales\bin\Debug\Software Sales.exe.config
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Software Sales\Software Sales\bin\Debug\Software Sales.exe
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Software Sales\Software Sales\bin\Debug\Software Sales.pdb
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Software Sales\Software Sales\bin\Debug\Software Sales.xml
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Software Sales\Software Sales\obj\Debug\Software_Sales.Form1.resources
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Software Sales\Software Sales\obj\Debug\Software_Sales.Resources.resources
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Software Sales\Software Sales\obj\Debug\Software Sales.vbproj.GenerateResource.Cache
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Software Sales\Software Sales\obj\Debug\Software Sales.exe
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Software Sales\Software Sales\obj\Debug\Software Sales.xml
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Software Sales\Software Sales\obj\Debug\Software Sales.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Software Sales\Software Sales\bin\Debug\Software Sales.exe.config
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Software Sales\Software Sales\obj\Debug\Software Sales.exe
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Software Sales\Software Sales\obj\Debug\Software Sales.xml
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Software Sales\Software Sales\obj\Debug\Software Sales.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Software Sales\Software Sales\bin\Debug\Software Sales.exe
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Software Sales\Software Sales\bin\Debug\Software Sales.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Software Sales\Software Sales\bin\Debug\Software Sales.xml
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Software Sales\Software Sales\obj\Debug\Software Sales.vbprojResolveAssemblyReference.cache
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Software Sales\Software Sales\obj\Debug\Software_Sales.Form1.resources
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Software Sales\Software Sales\obj\Debug\Software_Sales.Resources.resources
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 5\Software Sales\Software Sales\obj\Debug\Software Sales.vbproj.GenerateResource.Cache

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TemperatureAverage
+</name>
+</assembly>
+<members>
+<member name="P:Temperature_Average.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Temperature_Average.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Temperature_Average.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:Temperature_Average.Form1.CheckTemperature(System.Windows.Forms.TextBox,System.Double,System.String)">
+	<summary>
+ Verify that the temperature is numeric, and if it falls within a given range.
+ </summary>
+	<param name="txtBox">TextBox control used for input</param>
+	<param name="dblTemp">variable to hold the temperature</param>
+	<param name="id">temperature ID number (1-4)</param>
+	<returns>True if the temperature is valid; False otherwise</returns>
+</member>
+</members>
+</doc>

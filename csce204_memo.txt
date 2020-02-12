@@ -1,0 +1,121 @@
+Lecture 1 Date: 13th Jan 2013
+
+Go over the course website cse.sc.edu/~fyan/csce204
+Go over the syllabus
+
+Topics to mention in Chapter 1
+
+Input devices Output devices
+what is a programming language       yes
+What is visual basic                 yes
+The steps to create a program        yes
+What is visual studio                yes
+Try out visual studio tutorials      yes 
+
+###############Important#############################
+Mr Margaret Wright MAY need special accommodations.
+Mr Daniel Tunison needs special accomadations.
+
+Topics to cover in lecture 2
+2.1 Getting Started with Forms and Controls                                                 yes
+2.2 Creating the G U I for Your First Visual Basic Application: The Hello World Application yes
+2.3 Writing the Code for the Hello World Application                                        yes
+2.4 More about Label Controls                                                               No
+
+##############Important##############################
+Macie Luebbert needs specail accomadations
+
+Tpocs to cover in lecture 3
+event-driven                                                                                yes
+open close project                                                                          yes
+reset the windows layout                                                                    yes
+The flag project                                                                            yes
+More on label controls (Auto size on and off, text algin property)                          yes
+Multiple Event Handler                                                                      No
+IntelliSense                                                                                yes
+PictureBox Control                                                                          yes
+The visible property                                                                        yes
+Write code to close the form                                                                yes
+
+Topics covered in lecture 4
+Comments                                                                                    yes
+Errors                                                                                      yes
+StatusStrip                                                                                 yes
+MessageBox                                                                                  yes
+The help menu                                                                               yes
+
+Topics to cover in lecture 5 
+String concatenatoin (chapter 3 slides page 8) yes
+Variables(chapter 3 slides page 12) yes 
+Variable Decleration(p15) yes 
+Naming rules(p17) yes 
+Naming Conventions(p18) yes 
+Set Variable Value(p19) yes 
+Data types(p20) yes
+literal (p48) yes
+Type conversions (P54) No
+Operators P(32) yes 
+
+############################important##############
+Grade Anisah Reed HW1 no penalty
+Grade Courtney Ponder HW1 no penalty
+
+############################important##############
+create a forum for students to post help
+
+
+Topics to cover in lecture 6
+Strict Mode						No
+Type conversion					Yes
+Format Numbers and Date			Yes
+The calculator project 			Yes
+
+Topics to cover in lecture 7
+
+Strict Mode				Yes 
+String concatenation example		Yes
+Class level variable			Yes
+exception handling			Yes 
+The calculator project 2 with result history and exception handling. Yes
+
+Topics to cover in lecture 8
+Assign Keyboard input to buttons  	Yes
+TabIndex				Yes
+Multiline string in messagebox		Yes
+The load Event				Yes 
+GroupBox				Yes
+
+Topics to cover in lecture 9
+If Then					Yes
+If Then Else				Yes
+If Then ElseIf				Yes
+Introduction to flow chart		Yes
+
+Topics to cover in lecture 10
+Nested If Clause			Yes
+relational operators < > <> <= >= =	Yes
+	using Relational Operators with Math operators and function call Yes 
+Logic operators And, Or, Not 		Yes 
+	Check Value Range		Yes
+Working With Strings			No
+	
+	
+
+Topics to cover in lecture 11 
+Working With Strings
+	relational operators on strings              Yes
+		Compare two strings with > < >= <=   Yes 
+	Test Equality with = <> 		     Yes
+	toUpper toLower methods                      Yes
+	IsNumeric                                    Yes 
+	IndexOf Method                               Yes
+	Substring Method                             No
+	String.Length                                Yes
+The string search application                        Yes
+
+Topics to cover in lecture 12
+Debug with a single procedure.
+
+
+
+

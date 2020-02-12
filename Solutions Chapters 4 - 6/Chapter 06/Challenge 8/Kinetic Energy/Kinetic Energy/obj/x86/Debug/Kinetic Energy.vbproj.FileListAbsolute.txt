@@ -1,0 +1,17 @@
+C:\Users\Chris\documents\visual studio 2010\Projects\Kinetic Energy\Kinetic Energy\bin\Debug\Kinetic Energy.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Kinetic Energy\Kinetic Energy\bin\Debug\Kinetic Energy.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\Kinetic Energy\Kinetic Energy\bin\Debug\Kinetic Energy.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Kinetic Energy\Kinetic Energy\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2010\Projects\Kinetic Energy\Kinetic Energy\obj\x86\Debug\Kinetic_Energy.Form1.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Kinetic Energy\Kinetic Energy\obj\x86\Debug\Kinetic_Energy.Resources.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Kinetic Energy\Kinetic Energy\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Kinetic Energy\Kinetic Energy\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Kinetic Energy\Kinetic Energy\obj\x86\Debug\Kinetic Energy.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Kinetic Energy\Kinetic Energy\obj\x86\Debug\Kinetic Energy.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Kinetic Energy\Kinetic Energy\obj\x86\Debug\Kinetic Energy.pdb
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 9\Kinetic Energy\Kinetic Energy\obj\x86\Debug\Kinetic Energy.exe
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 9\Kinetic Energy\Kinetic Energy\obj\x86\Debug\Kinetic Energy.xml
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 9\Kinetic Energy\Kinetic Energy\obj\x86\Debug\Kinetic Energy.pdb
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 8\Kinetic Energy\Kinetic Energy\obj\x86\Debug\Kinetic Energy.exe
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 8\Kinetic Energy\Kinetic Energy\obj\x86\Debug\Kinetic Energy.xml
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 8\Kinetic Energy\Kinetic Energy\obj\x86\Debug\Kinetic Energy.pdb

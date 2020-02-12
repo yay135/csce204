@@ -1,0 +1,24 @@
+String Comparison and Manipulate
+The String Search App
+
+<, >, <=, >=, =, <>,
+
+Dim strEx1 As String = "Marry"
+			01234
+Dim strEx2 As String = "marry"
+
+strEx1 > strEx2 -> False
+strEx1 <> strEx2 -> True
+
+
+Dim strTmp As String = strEx1.ToUpper()
+strEx2.ToUpper() MARRY
+strEx2.ToLower() marry 
+
+
+IsNumeric("124.234D")
+
+strEx2.Length -> 5
+
+strEx1.IndexOf("rra") -> -1
+strEx1.IndexOf("rr" , 3) -> -1

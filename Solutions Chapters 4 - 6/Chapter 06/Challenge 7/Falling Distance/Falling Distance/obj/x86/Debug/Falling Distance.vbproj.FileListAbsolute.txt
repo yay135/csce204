@@ -1,0 +1,26 @@
+C:\Users\Chris\documents\visual studio 2010\Projects\Falling Distance\Falling Distance\bin\Debug\Falling Distance.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Falling Distance\Falling Distance\bin\Debug\Falling Distance.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\Falling Distance\Falling Distance\bin\Debug\Falling Distance.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Falling Distance\Falling Distance\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2010\Projects\Falling Distance\Falling Distance\obj\x86\Debug\Falling_Distance.Form1.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Falling Distance\Falling Distance\obj\x86\Debug\Falling_Distance.Resources.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Falling Distance\Falling Distance\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Falling Distance\Falling Distance\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Falling Distance\Falling Distance\obj\x86\Debug\Falling Distance.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Falling Distance\Falling Distance\obj\x86\Debug\Falling Distance.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Falling Distance\Falling Distance\obj\x86\Debug\Falling Distance.pdb
+C:\Users\Chris\Desktop\VB 2010\Programming Challenges\Chapter 06\Challenge 8\Falling Distance\Falling Distance\obj\x86\Debug\Falling Distance.exe
+C:\Users\Chris\Desktop\VB 2010\Programming Challenges\Chapter 06\Challenge 8\Falling Distance\Falling Distance\obj\x86\Debug\Falling Distance.xml
+C:\Users\Chris\Desktop\VB 2010\Programming Challenges\Chapter 06\Challenge 8\Falling Distance\Falling Distance\obj\x86\Debug\Falling Distance.pdb
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 8\Falling Distance\Falling Distance\obj\x86\Debug\Falling Distance.exe
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 8\Falling Distance\Falling Distance\obj\x86\Debug\Falling Distance.xml
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 8\Falling Distance\Falling Distance\obj\x86\Debug\Falling Distance.pdb
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 7\Falling Distance\Falling Distance\obj\x86\Debug\Falling Distance.exe
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 7\Falling Distance\Falling Distance\obj\x86\Debug\Falling Distance.xml
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 7\Falling Distance\Falling Distance\obj\x86\Debug\Falling Distance.pdb
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 7\Falling Distance\Falling Distance\bin\Debug\Falling Distance.exe
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 7\Falling Distance\Falling Distance\bin\Debug\Falling Distance.pdb
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 7\Falling Distance\Falling Distance\bin\Debug\Falling Distance.xml
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 7\Falling Distance\Falling Distance\obj\x86\Debug\Falling_Distance.Form1.resources
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 7\Falling Distance\Falling Distance\obj\x86\Debug\Falling_Distance.Resources.resources
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 7\Falling Distance\Falling Distance\obj\x86\Debug\Falling Distance.vbproj.GenerateResource.Cache

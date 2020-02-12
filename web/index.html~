@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<!-- saved from url=(0033)https://cse.sc.edu/~fyan/csce204/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><style data-merge-styles="true"></style>
+        <title>csce 204</title>
+    <style>@media print {#ghostery-purple-box {display:none !important}}</style></head>
+    <body>
+        <h1>CSCE 204 Program Design and Development Spring 2020</h1>
+        <h2>General Information</h2>
+        <p> 
+            Class Meeting Time: MWF 8:30AM - 9:20AM
+            <br>Address: Swearingen Engineering Center, Room 1D15
+            <br>Text Book Prefered: Tony Gaddis and Kip Irvine, Starting Out With Visual Basic 7th edition
+            <br>Course Syllabus <a href="https://cse.sc.edu/~fyan/csce204/csce204_spring_2020_Syllabus.pdf" ,="" target="_blank">link</a>
+            <br>Homework Submission <a href="https://dropbox.cse.sc.edu/" ,="" target="_blank">link</a>
+            <br>Grading policy: Homework 30% Test 30% (midterm 15%, final 15%) Final Project 40% 90%--A 80%--B 70%--C 60%--D 
+        </p>
+
+        <h2>Announcement</h2>
+        <p>
+            Homework and projects will be poseted throughout the semester <strong>on this website</strong>, but you have to submit your homework on dropbox.cse.sc.edu.
+            <br>Slides will be posted on days before the classes. 
+            <br><strong>Do not</strong> distribute the course content or any material from this website!
+            <br>Register a Microsoft account to use the Visual Studio.
+            <br>This is a <a href="https://www.visualstudio.com/thank-you-downloading-visual-studio/?sku=Community&amp;rel=15" ,="" target="_blank">link</a> to download the Visual Studio 2017 Community Edition.
+        </p>
+        <h3>About Visual Studio</h3>
+        <p>
+            The visual studio is a tool to develop visual basic program. It comes with two flavors, the community edition and the professional edtion.
+            The comunity edition is free to use and is enough for completing this course. The professional version requires a purchase or subscriptions.
+            The only thing you need to start using visual studio community editon is a Microsoft account. Your school email has been registered as a Microsoft account already. To sign in, the account is simply your email and the password is your email password.
+            You can login to the visual studio using your Microsoft account upon launching or you can sign in later using the button located on the upper right corner of the tool window after launching.
+            The text book is based on visual studio community version 2017. However, you can also use version 2019, the changes are minor. 
+            If you cannot installed the visual studio on your own computer. You can always use the lab machines in the classroom to complete the homework and the project. All lab machines are preloaded with visual studio 2019. 
+            <br><strong>Note</strong>: We only talk about how to use visual studio and develop visual basic programs on Windows. Please do not download and install the visual studio on other operating systems. Again, you can use lab machines for homework and projects.
+            This is a <a href="https://www.youtube.com/watch?v=iWoVC3GGMgU&amp;t=223s" ,="" target="_blank">video tutorial</a> shows how to download visual studio 2017 and configure it for visual basic. 
+        </p>
+        <h3>The Video Tutorials</h3>
+            <p>
+                The <a href="https://www.youtube.com/watch?v=hbFhVaBDbR4" ,target="_blank">video tutorial</a> on how to create your first Hello World app and reset window layout and configure visual studio for visual basic.
+                <br>The <a href="https://www.youtube.com/watch?v=4SlG8IDGtX8&amp;feature=youtu.be" ,="" target="_blank">video tutorial</a> on PictureBox control, Visible property, Exit Button and more.
+                <br>The <a href="https://www.youtube.com/watch?v=bEgzOU1g5WM&amp;feature=youtu.be" ,="" target="_blank">video tutorial</a> on StatusStrip and MessageBox.
+                <br>The <a href="https://youtu.be/QlwEMplbFHo" ,="" target="_blank">video tutorial</a> of how to create your homework zip file.
+                <br>The <a href="https://www.youtube.com/watch?v=ibeuPPxpS1s" ,="" target="_blank">video tutorial</a> of the calculator project. Date uploaded: Jan 29th.
+                <br>The <a href="https://www.youtube.com/watch?v=AP1RAwaYe4k" , target="_blank">video tutorial</a> of the calculator 2 project. Date uploaded: Jan 31th.
+                <br>The <a href="https://youtu.be/SMaKFGWpmCY", target="_blank">video tutorial</a> of the calculator 3 project. Date uploaded: Feb 3rd.
+                <br>The <a href="https://youtu.be/zGlEfuteexo", target="_blank">video tutorial</a> of the Hotel calculator project. Date uploaded: Feb 3rd.
+                <br>The <a href="https://youtu.be/D8QVGfzo61U", target="_blank">video tutorial</a> of the Grader Project. Data uploaded: Feb 6th.
+                <br>The <a href="https://youtu.be/9E8IwjL73H4", target="_blank">video tutorial</a> of how to build the base grader project. Date uploaded: Feb 7th.
+                <br>The <a href="https://youtu.be/CSexPMwQxmY", target="_blank">video tutorial</a> of Grader 2 project. Date uploaded: Feb 7th. 
+                <br>The <a href="https://youtu.be/07fF2FblVbU", target="_blank">video tutorial</a> of String Search project. Date upload Feb 10th.
+            </p>
+        <h2>Instructor Information</h2>
+        <img src="./csce 204_files/IMG_4170.jpg" alt="Profile" ,="" style="width:160px;height:200px;">
+        <p>
+            Name: Fengyao Yan
+            <br>Email: fyan at email dot sc dot edu
+            <br>Phone: 470-334-9461
+            <br>Office Address: 550 Assembly Street, Storey Innovation Center, Room 2065
+            <br>Office Hours: Please send me an email in advance to make an appointment. 
+            <br>Grader Contact: RXIN@email.sc.edu
+        </p>
+
+        <h2>Topics </h2>
+        <ul>
+            <li>Best practices in the creation of application</li>
+            <li>Development of a user interface</li>
+            <li>Expressions</li>
+            <li>Non-numeric data, Strings</li>
+            <li>Coding logic</li>
+            <li>Working with data base</li>
+        </ul>
+        <h2>Homework and Slides</h2>
+            <a href="https://cse.sc.edu/~fyan/csce204/Chapter1_Accessible.pptx" ,="" target="_blank">Chapter 1 Slides</a>
+            <br><a href="https://cse.sc.edu/~fyan/csce204/Chapter2_Accessible.pptx" ,="" target="_blank">Chapter 2 Slides</a>
+            <br>Do Homework 1, due 11:59 PM 24th Jan, use Visual Studio, compress your solution/ project folder and submit it on <a href="https://dropbox.cse.sc.edu/mod/assign/view.php?id=1034" ,="" target="_blank">dropbox</a>.
+            <br><a href="https://cse.sc.edu/~fyan/csce204/Hw1_latin_translator.pdf" ,="" target="_blank">Homework 1</a>
+            <br><a href="https://cse.sc.edu/~fyan/csce204/Chapter3_Accessible.pptx" ,="" target="_blank">Chapter 3 Slides</a>
+            <br>Do Homework 2, due Feb 3rd 11:59 PM.
+            <br><a href="https://cse.sc.edu/~fyan/csce204/hw2.docx" ,="" target="_blank">Homework 2</a>
+            <br>Do Homework 3, due Feb 12th 11:59 PM.
+            <br><a href="https://cse.sc.edu/~fyan/csce204/HW3.pdf", target="_blank">Homework 3</a>
+            <br><a href="https://cse.sc.edu/~fyan/csce204/Chapter4_Accessible.pptx" ,target="_blank">Chapter 4 Slides</a>
+        <h2>Forum</h2>
+        <p>
+            <strong>It is so important that we share our voices, add a topic and start discussions tody!</strong> 
+            <br><a href="https://dropbox.cse.sc.edu/mod/forum/view.php?id=949" ,="" target="_blank">Course Forum</a>
+        </p>
+        <h2>Tentative Schedule</h2>
+        <h3>Special Dates</h3>
+        <table style="width:80%">
+            <tbody><tr><th align="left">Date</th><th align="left">Class</th><th align="left">Comment</th></tr>
+            <tr><td>Jan 20th</td><td>No Class</td><td>Martin Luther King Day</td></tr>
+            <tr><td>Jan 21th</td><td>Last Day to Drop Class</td><td>Without W Reorded</td></tr>
+            <tr><td>Mar 2nd</td><td>Midpoint of the Semester</td><td>Normal Class</td></tr>
+            <tr><td>Mar 6th</td><td>Midterm Exam</td><td>SWGN 1D15 8:30AM</td></tr>
+            <tr><td>Mar 9th</td><td>No Class</td><td>Spring Break</td></tr>
+            <tr><td>Mar 11th</td><td>No Class</td><td>Spring Break</td></tr>
+            <tr><td>Mar 13th</td><td>No Class</td><td>Spring Break</td></tr>
+            <tr><td>Mar 28th</td><td>Last Day to Drop Class</td><td>Without WF Reorded</td></tr>
+            <tr><td>Apr 27th</td><td>Last Day of Class</td><td>Last Day of Class</td></tr>
+            <tr><td>Apr 30th</td><td>Final Project Due</td><td>Final Project Due</td></tr>
+            <tr><td>May 1st</td><td>Final Exam</td><td>SWGN 1D15 9:00AM</td></tr>
+        </tbody></table>
+
+        <h3>Class Schedules</h3>
+        <table style="width:100%">
+            <tbody><tr><th align="left">Date</th> <th align="left">Class</th> <th align="left">Comment</th></tr>
+            <tr><td>Jan 13th</td> <td>Chapter 1</td> <td>Intro &amp; VS Basics</td></tr>
+            <tr><td>Jan 15th</td> <td>Chapter 2.1 - 2.4</td> <td>Forms &amp; Controls &amp; Hello World</td></tr>
+            <tr><td>Jan 17th</td> <td>Chapter 2.5 - 2.9</td> <td>PcitureBox control &amp; more on properties</td></tr>
+            <tr><td>Jan 22nd</td> <td>Chapter 2.10 - 2.14</td><td>Visual Studio wrap up</td></tr>
+            <tr><td>Jan 24th</td> <td>Chapter 3.1 - 3.5</td><td>Input, data types, calculations, formatting numbers and dates</td></tr>
+            <tr><td>Jan 27th</td> <td>Chapter 3.6 - 3.8</td> <td>Class Variable, Exceptions, GUI details</td></tr>
+            <tr><td>Jan 29th</td> <td>Chapter 3.9 - 3.11</td> <td>Load Event, design, debug</td></tr> 
+            <tr><td>Jan 31st</td> <td>Chapter 4.2 - 4.4</td> <td>The If Then, If Else, If ElseIf Clauses</td></tr>
+            <tr><td>Feb 3rd</td> <td>Chapter 4.5, 4.6, 4.7</td><td>Nested If, Logic Operator, work with Strings</td></tr>
+            <tr><td>Feb 5th</td> <td>Chapter 4.8, 4.9</td> <td>The select case clause, intro to input validation</td></tr>
+            <tr><td>Feb 7th</td> <td>Chapter 4.10, 4.11</td> <td>GUI design, Program design</td> </tr>
+            <tr><td>Feb 10th</td> <td>Chapter 5.1, 5.2</td> <td>Input Boxes, List Boxes</td></tr>
+            <tr><td>Feb 12th</td> <td>Chapter 5.3 - 5.5</td><td>Loops</td></tr>
+            <tr><td>Feb 14th</td> <td>Chapter 5.6 - 5.8</td> <td>Multicolumn Boxes, Random Numbers, the With End clause</td></tr> 
+            <tr><td>Feb 17th</td> <td>Chapter 5.9 - 5.10</td> <td>Tool tips, Program design</td></tr>
+            <tr><td>Feb 19th</td> <td>Chapter 6.1 - 6.2</td><td>Procedures, Arguments passing</td></tr> 
+            <tr><td>Feb 21st</td> <td>Chapter 6.3 - 6.4</td> <td>Functions, More on debugging</td></tr>
+            <tr><td>Feb 24th</td> <td>Chapter 6.5</td> <td>Program design</td></tr> 
+            <tr><td>Feb 26th</td> <td>Chapter 7.1, 7.2</td> <td>Multiple Forms, Modules</td></tr>
+            <tr><td>Feb 28th</td> <td>Chapter 7.3, 7.4</td> <td>Menus, program desgin</td></tr>
+            <tr><td>Mar 2nd</td> <td>Chapter 8.1 - 8.4</td> <td>Arrays, Array processing, Multidimensional Array</td></tr>
+            <tr><td>Mar 4th</td> <td>chapter 8.5 - 8.8</td> <td>More GUI design, program design</td></tr>
+            <tr><td>Mar 6th</td> <td>Midterm Test</td><td>Covering from chapter 1 to 8</td></tr>
+        </tbody></table> 
+    
+</body><editor-card style="animation: initial; transition: initial; color: initial; font: initial; font-feature-settings: initial; font-kerning: initial; font-optical-sizing: initial; font-variation-settings: initial; text-orientation: initial; text-rendering: initial; -webkit-font-smoothing: initial; -webkit-locale: initial; -webkit-text-orientation: initial; -webkit-writing-mode: initial; writing-mode: initial; zoom: initial; place-content: initial; place-items: initial; place-self: initial; alignment-baseline: initial; backdrop-filter: initial; backface-visibility: initial; background: initial; background-blend-mode: initial; baseline-shift: initial; block-size: initial; border-block-end: initial; border-block-start: initial; border: initial; border-radius: initial; border-collapse: initial; border-inline-end: initial; border-inline-start: initial; bottom: initial; box-shadow: initial; box-sizing: initial; break-after: initial; break-before: initial; break-inside: initial; buffered-rendering: initial; caption-side: initial; caret-color: initial; clear: initial; clip: initial; clip-path: initial; clip-rule: initial; color-interpolation: initial; color-interpolation-filters: initial; color-rendering: initial; columns: initial; column-fill: initial; gap: initial; column-rule: initial; column-span: initial; contain: initial; content: initial; counter-increment: initial; counter-reset: initial; cursor: initial; cx: initial; cy: initial; d: initial; display: initial; dominant-baseline: initial; empty-cells: initial; fill: initial; fill-opacity: initial; fill-rule: initial; filter: initial; flex: initial; flex-flow: initial; float: initial; flood-color: initial; flood-opacity: initial; grid: initial; grid-area: initial; height: initial; hyphens: initial; image-rendering: initial; inline-size: initial; isolation: initial; left: 0px; letter-spacing: initial; lighting-color: initial; line-break: initial; list-style: initial; margin-block-end: initial; margin-block-start: initial; margin: initial; margin-inline-end: initial; margin-inline-start: initial; marker: initial; mask: initial; mask-type: initial; max-block-size: initial; max-height: initial; max-inline-size: initial; max-width: initial; min-block-size: initial; min-height: initial; min-inline-size: initial; min-width: initial; mix-blend-mode: initial; object-fit: initial; object-position: initial; offset: initial; opacity: initial; order: initial; orphans: initial; outline: initial; outline-offset: initial; overflow-anchor: initial; overflow-wrap: initial; overflow: initial; overscroll-behavior-block: initial; overscroll-behavior-inline: initial; overscroll-behavior: initial; padding-block-end: initial; padding-block-start: initial; padding: initial; padding-inline-end: initial; padding-inline-start: initial; page: initial; paint-order: initial; perspective: initial; perspective-origin: initial; pointer-events: initial; position: absolute; quotes: initial; r: initial; resize: initial; right: initial; rx: initial; ry: initial; scroll-behavior: initial; scroll-margin-block: initial; scroll-margin: initial; scroll-margin-inline: initial; scroll-padding-block: initial; scroll-padding: initial; scroll-padding-inline: initial; scroll-snap-align: initial; scroll-snap-stop: initial; scroll-snap-type: initial; shape-image-threshold: initial; shape-margin: initial; shape-outside: initial; shape-rendering: initial; size: initial; speak: initial; stop-color: initial; stop-opacity: initial; stroke: initial; stroke-dasharray: initial; stroke-dashoffset: initial; stroke-linecap: initial; stroke-linejoin: initial; stroke-miterlimit: initial; stroke-opacity: initial; stroke-width: initial; tab-size: initial; table-layout: initial; text-align: initial; text-align-last: initial; text-anchor: initial; text-combine-upright: initial; text-decoration: initial; text-decoration-skip-ink: initial; text-indent: initial; text-overflow: initial; text-shadow: initial; text-size-adjust: initial; text-transform: initial; text-underline-position: initial; top: 0px; touch-action: initial; transform: initial; transform-box: initial; transform-origin: initial; transform-style: initial; user-select: initial; vector-effect: initial; vertical-align: initial; visibility: initial; -webkit-app-region: initial; -webkit-appearance: initial; border-spacing: initial; -webkit-border-image: initial; -webkit-box-align: initial; -webkit-box-decoration-break: initial; -webkit-box-direction: initial; -webkit-box-flex: initial; -webkit-box-ordinal-group: initial; -webkit-box-orient: initial; -webkit-box-pack: initial; -webkit-box-reflect: initial; -webkit-font-size-delta: initial; -webkit-highlight: initial; -webkit-hyphenate-character: initial; -webkit-line-break: initial; -webkit-line-clamp: initial; -webkit-margin-collapse: initial; -webkit-margin-bottom-collapse: initial; -webkit-margin-top-collapse: initial; -webkit-mask-box-image: initial; -webkit-mask: initial; -webkit-mask-composite: initial; -webkit-perspective-origin-x: initial; -webkit-perspective-origin-y: initial; -webkit-print-color-adjust: initial; -webkit-rtl-ordering: initial; -webkit-ruby-position: initial; -webkit-tap-highlight-color: initial; -webkit-text-combine: initial; -webkit-text-decorations-in-effect: initial; -webkit-text-emphasis: initial; -webkit-text-emphasis-position: initial; -webkit-text-fill-color: initial; -webkit-text-security: initial; -webkit-text-stroke: initial; -webkit-transform-origin-x: initial; -webkit-transform-origin-y: initial; -webkit-transform-origin-z: initial; -webkit-user-drag: initial; -webkit-user-modify: initial; white-space: initial; widows: initial; width: initial; will-change: initial; word-break: initial; word-spacing: initial; x: initial; y: initial; z-index: auto;"></editor-card></html>
